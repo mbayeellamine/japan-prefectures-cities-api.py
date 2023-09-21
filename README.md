@@ -1,14 +1,6 @@
-# Project Name
+# japan-prefectures-cities-api-service
 
 japan-prefectures-cities-api-service
-
-## Prerequisites
-
-- List any prerequisites or dependencies required to run your project.
-
-## Getting Started
-
-Provide instructions on how to get your project up and running using Docker.
 
 ## Screenshot
 ![Screenshot](./images/screenshot.png)
