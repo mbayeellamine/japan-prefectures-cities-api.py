@@ -27,10 +27,14 @@ claudia create --handler lambda.handler --deploy-proxy-api --region <your_aws_re
 ```
 
 # Assuming you have set up your AWS CLI and logged in
-(aws ecr get-login --no-include-email --region <your_aws_region>)
+```
+$(aws ecr get-login --no-include-email --region <your_aws_region>)
+```
 
 ## Create an ECR repository
+```
 aws ecr create-repository --repository-name japan-prefectures-cities-api
+```
 
 # Build and tag the Docker image
 ```
