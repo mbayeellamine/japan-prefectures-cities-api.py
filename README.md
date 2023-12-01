@@ -3,7 +3,7 @@
 japan-prefectures-cities-api-service
 
 ## Screenshot
-![Screenshot](./images/screenshot.png)
+![Screenshot](./images/screenshot_.png)
 
 ```bash
 # Clone the repository
