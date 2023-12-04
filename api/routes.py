@@ -1,6 +1,4 @@
-from fastapi import FastAPI, HTTPException, Depends
-from fastapi_limiter.depends import RateLimiter
-from fastapi import FastAPI, HTTPException, Query, APIRouter
+from fastapi import APIRouter
 from api.prefectures import *
 from api.japan_facts import *
 import random

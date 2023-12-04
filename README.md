@@ -18,13 +18,6 @@ docker build -t japan-prefectures-cities-api-service .
 # Run the Docker container
 docker run -p 8000:8000 japan-prefectures-cities-api-service
 ```
-## Deploy on AWS Lambda using Claudia
-
-```
-npm install -g claudia
-
-claudia create --handler lambda.handler --deploy-proxy-api --region <your_aws_region>
-```
 
 ## Assuming you have set up your AWS CLI and logged in
 ```
@@ -60,4 +53,30 @@ aws ecs create-cluster --cluster-name japan-prefectures-cities-cluster
 ## Run the Fargate task
 ```
 aws ecs run-task --cluster japan-prefectures-cities-cluster --task-definition japan-prefectures-cities-api-task
+```
+
+# Deploy on AWS Lambda using Cli
+```
+aws lambda create-function \
+  --function-name MyLambdaFunction \
+  --runtime python3.10 \
+  --role arn:aws:iam::YOUR_ACCOUNT_ID:role/execution_role \
+  --handler main.handler \
+  --zip-file fileb://function.zip
+
+
+mkdir layer
+pip install -r requirements.txt -t layer/python
+cd layer
+zip -r layer.zip .
+
+aws lambda publish-layer-version \
+  --layer-name FastApiLayer \
+  --description "FastAPI layer" \
+  --zip-file fileb://layer.zip
+
+aws lambda update-function-configuration \
+  --function-name YourFunctionName \
+  --layers arn:aws:lambda:REGION:ACCOUNT_ID:layer:FastApiLayer:1
+
 ```
