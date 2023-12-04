@@ -1,5 +1,5 @@
 # den - density, pop - population
-
+import json
 japan = {
     "name": "Nippon",
     "islands_number": "6,852",
@@ -33,7 +33,8 @@ hokkaido = {
     "name_kanji": "北海道",
     "capital_kanji": "札幌市",
     "iso_code": 1,
-    "area_code": "011–016"
+    "area_code": "011–016",
+    "lines": json.load(open(f"data/stations/hokkaido.json", 'r', encoding='utf-8'))["lines"]
 }
 
 aomori = {
@@ -50,7 +51,8 @@ aomori = {
     "name_kanji": "青森県",
     "capital_kanji": "青森市",
     "iso_code": 2,
-    "area_code": "017"
+    "area_code": "017",
+    "lines": json.load(open(f"data/stations/aomori.json", 'r', encoding='utf-8'))["lines"]
 }
 
 iwate = {
@@ -67,7 +69,8 @@ iwate = {
     "name_kanji": "岩手県",
     "capital_kanji": "盛岡市",
     "iso_code": 3,
-    "area_code": "019"
+    "area_code": "019",
+    "lines": json.load(open(f"data/stations/iwate.json", 'r', encoding='utf-8'))["lines"]
 }
 
 miyagi = {
@@ -84,7 +87,8 @@ miyagi = {
     "name_kanji": "宮城県",
     "capital_kanji": "仙台市",
     "iso_code": 4,
-    "area_code": "022"
+    "area_code": "022",
+    "lines": json.load(open(f"data/stations/miyagi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 akita = {
@@ -101,7 +105,8 @@ akita = {
     "name_kanji": "秋田県",
     "capital_kanji": "秋田市",
     "iso_code": 5,
-    "area_code": "018"
+    "area_code": "018",
+    "lines": json.load(open(f"data/stations/akita.json", 'r', encoding='utf-8'))["lines"]
 }
 
 yamagata = {
@@ -118,7 +123,8 @@ yamagata = {
     "name_kanji": "山形県",
     "capital_kanji": "山形市",
     "iso_code": 6,
-    "area_code": "023"
+    "area_code": "023",
+    "lines": json.load(open(f"data/stations/yamagata.json", 'r', encoding='utf-8'))["lines"]
 }
 
 fukushima = {
@@ -135,7 +141,8 @@ fukushima = {
     "name_kanji": "福島県",
     "capital_kanji": "福島市",
     "iso_code": 7,
-    "area_code": "024"
+    "area_code": "024",
+    "lines": json.load(open(f"data/stations/fukushima.json", 'r', encoding='utf-8'))["lines"]
 }
 
 ibaraki = {
@@ -152,7 +159,8 @@ ibaraki = {
     "name_kanji": "茨城県",
     "capital_kanji": "水戸市",
     "iso_code": 8,
-    "area_code": "029"
+    "area_code": "029",
+    "lines": json.load(open(f"data/stations/ibaraki.json", 'r', encoding='utf-8'))["lines"]
 }
 
 tochigi = {
@@ -169,7 +177,8 @@ tochigi = {
     "name_kanji": "栃木県",
     "capital_kanji": "宇都宮市",
     "iso_code": 9,
-    "area_code": "028"
+    "area_code": "028",
+    "lines": json.load(open(f"data/stations/tochigi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 gunma = {
@@ -186,7 +195,8 @@ gunma = {
     "name_kanji": "群馬県",
     "capital_kanji": "前橋市",
     "iso_code": 10,
-    "area_code": "027"
+    "area_code": "027",
+    "lines": json.load(open(f"data/stations/gunma.json", 'r', encoding='utf-8'))["lines"]
 }
 
 saitama = {
@@ -203,7 +213,8 @@ saitama = {
     "name_kanji": "埼玉県",
     "capital_kanji": "さいたま市",
     "iso_code": 11,
-    "area_code": "048"
+    "area_code": "048",
+    "lines": json.load(open(f"data/stations/saitama.json", 'r', encoding='utf-8'))["lines"]
 }
 
 chiba = {
@@ -220,7 +231,8 @@ chiba = {
     "name_kanji": "千葉県",
     "capital_kanji": "千葉市",
     "iso_code": 12,
-    "area_code": "043"
+    "area_code": "043",
+    "lines": json.load(open(f"data/stations/chiba.json", 'r', encoding='utf-8'))["lines"]
 }
 
 tokyo = {
@@ -237,7 +249,8 @@ tokyo = {
     "name_kanji": "東京都",
     "capital_kanji": "新宿区",
     "iso_code": 13,
-    "area_code": "03x042"
+    "area_code": "03x042",
+    "lines": json.load(open(f"data/stations/tokyo.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kanagawa = {
@@ -254,7 +267,8 @@ kanagawa = {
     "name_kanji": "神奈川県",
     "capital_kanji": "横浜市",
     "iso_code": 14,
-    "area_code": "045"
+    "area_code": "045",
+    "lines": json.load(open(f"data/stations/kanagawa.json", 'r', encoding='utf-8'))["lines"]
 }
 
 niigata = {
@@ -272,6 +286,7 @@ niigata = {
     "capital_kanji": "新潟市",
     "iso_code": 15,
     "area_code": "25",
+    "lines": json.load(open(f"data/stations/niigata.json", 'r', encoding='utf-8'))["lines"]
 }
 
 toyama = {
@@ -288,7 +303,8 @@ toyama = {
     "name_kanji": "富山県",
     "capital_kanji": "富山市",
     "iso_code": 16,
-    "area_code": "076"
+    "area_code": "076",
+    "lines": json.load(open(f"data/stations/toyama.json", 'r', encoding='utf-8'))["lines"]
 }
 
 ishikawa = {
@@ -305,7 +321,8 @@ ishikawa = {
     "name_kanji": "石川県",
     "capital_kanji": "金沢市",
     "iso_code": 17,
-    "area_code": "076"
+    "area_code": "076",
+    "lines": json.load(open(f"data/stations/ishikawa.json", 'r', encoding='utf-8'))["lines"]
 }
 
 fukui = {
@@ -322,7 +339,8 @@ fukui = {
     "name_kanji": "福井県",
     "capital_kanji": "福井市",
     "iso_code": 18,
-    "area_code": "077"
+    "area_code": "077",
+    "lines": json.load(open(f"data/stations/fukui.json", 'r', encoding='utf-8'))["lines"]
 }
 
 yamanashi = {
@@ -339,7 +357,8 @@ yamanashi = {
     "name_kanji": "山梨県",
     "capital_kanji": "甲府市",
     "iso_code": 19,
-    "area_code": "055"
+    "area_code": "055",
+    "lines": json.load(open(f"data/stations/yamanashi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 nagano = {
@@ -356,7 +375,8 @@ nagano = {
     "name_kanji": "長野県",
     "capital_kanji": "長野市",
     "iso_code": 20,
-    "area_code": "026"
+    "area_code": "026",
+    "lines": json.load(open(f"data/stations/nagano.json", 'r', encoding='utf-8'))["lines"]
 }
 
 gifu = {
@@ -373,7 +393,8 @@ gifu = {
     "name_kanji": "岐阜県",
     "capital_kanji": "岐阜市",
     "iso_code": 21,
-    "area_code": "058"
+    "area_code": "058",
+    "lines": json.load(open(f"data/stations/gifu.json", 'r', encoding='utf-8'))["lines"]
 }
 
 shizuoka = {
@@ -390,7 +411,8 @@ shizuoka = {
     "name_kanji": "静岡県",
     "capital_kanji": "静岡市",
     "iso_code": 22,
-    "area_code": "054"
+    "area_code": "054",
+    "lines": json.load(open(f"data/stations/shizuoka.json", 'r', encoding='utf-8'))["lines"]
 }
 
 aichi = {
@@ -407,7 +429,8 @@ aichi = {
     "name_kanji": "愛知県",
     "capital_kanji": "名古屋市",
     "iso_code": 23,
-    "area_code": "052"
+    "area_code": "052",
+    "lines": json.load(open(f"data/stations/aichi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 mie = {
@@ -424,7 +447,8 @@ mie = {
     "name_kanji": "三重県",
     "capital_kanji": "津市",
     "iso_code": 24,
-    "area_code": "059"
+    "area_code": "059",
+    "lines": json.load(open(f"data/stations/mie.json", 'r', encoding='utf-8'))["lines"]
 }
 
 shiga = {
@@ -441,7 +465,8 @@ shiga = {
     "name_kanji": "滋賀県",
     "capital_kanji": "大津市",
     "iso_code": 25,
-    "area_code": "077"
+    "area_code": "077",
+    "lines": json.load(open(f"data/stations/shiga.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kyoto = {
@@ -458,7 +483,8 @@ kyoto = {
     "name_kanji": "京都府",
     "capital_kanji": "京都市",
     "iso_code": 26,
-    "area_code": "074"
+    "area_code": "074",
+    "lines": json.load(open(f"data/stations/kyoto.json", 'r', encoding='utf-8'))["lines"]
 }
 
 osaka = {
@@ -475,7 +501,8 @@ osaka = {
     "name_kanji": "大阪府",
     "capital_kanji": "大阪市",
     "iso_code": 27,
-    "area_code": "06x"
+    "area_code": "06x",
+    "lines": json.load(open(f"data/stations/osaka.json", 'r', encoding='utf-8'))["lines"]
 }
 
 hyogo = {
@@ -492,7 +519,8 @@ hyogo = {
     "name_kanji": "兵庫県",
     "capital_kanji": "神戸市",
     "iso_code": 28,
-    "area_code": "073"
+    "area_code": "073",
+    "lines": json.load(open(f"data/stations/hyogo.json", 'r', encoding='utf-8'))["lines"]
 }
 
 nara = {
@@ -509,7 +537,8 @@ nara = {
     "name_kanji": "奈良県",
     "capital_kanji": "奈良市",
     "iso_code": 29,
-    "area_code": "0x74"
+    "area_code": "0x74",
+    "lines": json.load(open(f"data/stations/nara.json", 'r', encoding='utf-8'))["lines"]
 }
 
 wakayama = {
@@ -526,7 +555,8 @@ wakayama = {
     "name_kanji": "和歌山県",
     "capital_kanji": "和歌山市",
     "iso_code": 30,
-    "area_code": "075"
+    "area_code": "075",
+    "lines": json.load(open(f"data/stations/wakayama.json", 'r', encoding='utf-8'))["lines"]
 }
 
 tottori = {
@@ -543,7 +573,8 @@ tottori = {
     "name_kanji": "鳥取県",
     "capital_kanji": "鳥取市",
     "iso_code": 31,
-    "area_code": "085"
+    "area_code": "085",
+    "lines": json.load(open(f"data/stations/tottori.json", 'r', encoding='utf-8'))["lines"]
 }
 
 shimane = {
@@ -560,7 +591,8 @@ shimane = {
     "name_kanji": "島根県",
     "capital_kanji": "松江市",
     "iso_code": 32,
-    "area_code": "085"
+    "area_code": "085",
+    "lines": json.load(open(f"data/stations/shimane.json", 'r', encoding='utf-8'))["lines"]
 }
 
 okayama = {
@@ -577,7 +609,8 @@ okayama = {
     "name_kanji": "岡山県",
     "capital_kanji": "岡山市",
     "iso_code": 33,
-    "area_code": "086"
+    "area_code": "086",
+    "lines": json.load(open(f"data/stations/okayama.json", 'r', encoding='utf-8'))["lines"]
 }
 
 hiroshima = {
@@ -594,7 +627,8 @@ hiroshima = {
     "name_kanji": "広島県",
     "capital_kanji": "広島市",
     "iso_code": 34,
-    "area_code": "082"
+    "area_code": "082",
+    "lines": json.load(open(f"data/stations/hiroshima.json", 'r', encoding='utf-8'))["lines"]
 }
 
 yamaguchi = {
@@ -611,7 +645,8 @@ yamaguchi = {
     "name_kanji": "山口県",
     "capital_kanji": "山口市",
     "iso_code": 35,
-    "area_code": "083"
+    "area_code": "083",
+    "lines": json.load(open(f"data/stations/yamaguchi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 tokushima = {
@@ -628,7 +663,8 @@ tokushima = {
     "name_kanji": "徳島県",
     "capital_kanji": "徳島市",
     "iso_code": 36,
-    "area_code": "088"
+    "area_code": "088",
+    "lines": json.load(open(f"data/stations/tokushima.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kagawa = {
@@ -645,7 +681,8 @@ kagawa = {
     "name_kanji": "香川県",
     "capital_kanji": "高松市",
     "iso_code": 37,
-    "area_code": "087"
+    "area_code": "087",
+    "lines": json.load(open(f"data/stations/kagawa.json", 'r', encoding='utf-8'))["lines"]
 }
 
 ehime = {
@@ -662,7 +699,8 @@ ehime = {
     "name_kanji": "愛媛県",
     "capital_kanji": "松山市",
     "iso_code": 38,
-    "area_code": "089"
+    "area_code": "089",
+    "lines": json.load(open(f"data/stations/ehime.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kochi = {
@@ -679,7 +717,8 @@ kochi = {
     "name_kanji": "高知県",
     "capital_kanji": "高知市",
     "iso_code": 39,
-    "area_code": "088"
+    "area_code": "088", 
+    "lines": json.load(open(f"data/stations/kochi.json", 'r', encoding='utf-8'))["lines"]
 }
 
 fukuoka = {
@@ -696,7 +735,8 @@ fukuoka = {
     "name_kanji": "福岡県",
     "capital_kanji": "福岡市",
     "iso_code": 40,
-    "area_code": "082"
+    "area_code": "082",
+    "lines": json.load(open(f"data/stations/fukuoka.json", 'r', encoding='utf-8'))["lines"]
 }
 
 saga = {
@@ -713,7 +753,8 @@ saga = {
     "name_kanji": "佐賀県",
     "capital_kanji": "佐賀市",
     "iso_code": 41,
-    "area_code": "095"
+    "area_code": "095",
+    "lines": json.load(open(f"data/stations/saga.json", 'r', encoding='utf-8'))["lines"]
 }
 
 nagasaki = {
@@ -730,7 +771,8 @@ nagasaki = {
     "name_kanji": "長崎県",
     "capital_kanji": "長崎市",
     "iso_code": 42,
-    "area_code": "095"
+    "area_code": "095",
+    "lines": json.load(open(f"data/stations/nagasaki.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kumamoto = {
@@ -747,7 +789,8 @@ kumamoto = {
     "name_kanji": "熊本県",
     "capital_kanji": "熊本市",
     "iso_code": 43,
-    "area_code": "096"
+    "area_code": "096",
+    "lines": json.load(open(f"data/stations/kumamoto.json", 'r', encoding='utf-8'))["lines"]
 }
 
 oita = {
@@ -764,7 +807,8 @@ oita = {
     "name_kanji": "大分県",
     "capital_kanji": "大分市",
     "iso_code": 44,
-    "area_code": "097"
+    "area_code": "097",
+    "lines": json.load(open(f"data/stations/oita.json", 'r', encoding='utf-8'))["lines"]
 }
 
 miyazaki = {
@@ -781,7 +825,8 @@ miyazaki = {
     "name_kanji": "宮崎県",
     "capital_kanji": "宮崎市",
     "iso_code": 45,
-    "area_code": "098"
+    "area_code": "098",
+    "lines": json.load(open(f"data/stations/miyazaki.json", 'r', encoding='utf-8'))["lines"]
 }
 
 kagoshima = {
@@ -798,7 +843,8 @@ kagoshima = {
     "name_kanji": "鹿児島県",
     "capital_kanji": "鹿児島市",
     "iso_code": 46,
-    "area_code": "099"
+    "area_code": "099",
+    "lines": json.load(open(f"data/stations/kagoshima.json", 'r', encoding='utf-8'))["lines"]
 }
 
 okinawa = {
@@ -815,7 +861,8 @@ okinawa = {
     "name_kanji": "沖縄県",
     "capital_kanji": "那覇市",
     "iso_code": 47,
-    "area_code": "098"
+    "area_code": "098",
+    "lines": json.load(open(f"data/stations/okinawa.json", 'r', encoding='utf-8'))["lines"]
 }
 
 all_prefectures = [hokkaido, aomori, iwate, miyagi, akita, yamagata, fukushima, ibaraki,

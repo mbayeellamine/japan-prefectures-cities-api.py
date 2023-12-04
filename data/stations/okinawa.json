@@ -1,0 +1,123 @@
+{
+  "id": 47,
+  "name": {
+    "ja": "沖縄県",
+    "en": "Okinawa Prefecture"
+  },
+  "lines": [
+    {
+      "id": 99927,
+      "name": {
+        "ja": "ゆいレール",
+        "en": "Yui rail"
+      },
+      "stations": [
+        {
+          "id": 9992701,
+          "name": {
+            "ja": "那覇空港",
+            "en": "Naha Airport"
+          }
+        },
+        {
+          "id": 9992702,
+          "name": {
+            "ja": "赤嶺",
+            "en": "Akamine"
+          }
+        },
+        {
+          "id": 9992703,
+          "name": {
+            "ja": "小禄",
+            "en": "Kokoku"
+          }
+        },
+        {
+          "id": 9992704,
+          "name": {
+            "ja": "奥武山公園",
+            "en": "Okuyama Park"
+          }
+        },
+        {
+          "id": 9992705,
+          "name": {
+            "ja": "壺川",
+            "en": "Uchikawa"
+          }
+        },
+        {
+          "id": 9992706,
+          "name": {
+            "ja": "旭橋",
+            "en": "Asahihashi"
+          }
+        },
+        {
+          "id": 9992707,
+          "name": {
+            "ja": "県庁前",
+            "en": "Prefectural government agency"
+          }
+        },
+        {
+          "id": 9992708,
+          "name": {
+            "ja": "美栄橋",
+            "en": "Misaki Bridge"
+          }
+        },
+        {
+          "id": 9992709,
+          "name": {
+            "ja": "牧志",
+            "en": "Makishi"
+          }
+        },
+        {
+          "id": 9992710,
+          "name": {
+            "ja": "安里",
+            "en": "Anato"
+          }
+        },
+        {
+          "id": 9992711,
+          "name": {
+            "ja": "おもろまち",
+            "en": "Omoromachi"
+          }
+        },
+        {
+          "id": 9992712,
+          "name": {
+            "ja": "古島",
+            "en": "Kojima"
+          }
+        },
+        {
+          "id": 9992713,
+          "name": {
+            "ja": "市立病院前",
+            "en": "In front of municipal hospital"
+          }
+        },
+        {
+          "id": 9992714,
+          "name": {
+            "ja": "儀保",
+            "en": "Ceremonial"
+          }
+        },
+        {
+          "id": 9992715,
+          "name": {
+            "ja": "首里",
+            "en": "Shuri"
+          }
+        }
+      ]
+    }
+  ]
+}

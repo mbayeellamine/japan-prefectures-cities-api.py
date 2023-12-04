@@ -1,0 +1,1877 @@
+{
+  "id": 46,
+  "name": {
+    "ja": "鹿児島県",
+    "en": "Kagoshima prefecture"
+  },
+  "lines": [
+    {
+      "id": 11904,
+      "name": {
+        "ja": "JR鹿児島本線(川内～鹿児島)",
+        "en": "JR Kagoshima Main Line (Kawauchi - Kagoshima)"
+      },
+      "stations": [
+        {
+          "id": 1190401,
+          "name": {
+            "ja": "川内",
+            "en": "Kawauchi"
+          }
+        },
+        {
+          "id": 1190402,
+          "name": {
+            "ja": "隈之城",
+            "en": "Kumonjo"
+          }
+        },
+        {
+          "id": 1190403,
+          "name": {
+            "ja": "木場茶屋",
+            "en": "Kiba-cho store"
+          }
+        },
+        {
+          "id": 1190404,
+          "name": {
+            "ja": "串木野",
+            "en": "Kushikino"
+          }
+        },
+        {
+          "id": 1190414,
+          "name": {
+            "ja": "神村学園前",
+            "en": "Kamimura Gakuen front"
+          }
+        },
+        {
+          "id": 1190405,
+          "name": {
+            "ja": "市来",
+            "en": "Municipal government"
+          }
+        },
+        {
+          "id": 1190406,
+          "name": {
+            "ja": "湯之元",
+            "en": "Yunomoto"
+          }
+        },
+        {
+          "id": 1190407,
+          "name": {
+            "ja": "東市来",
+            "en": "Tohoichiro"
+          }
+        },
+        {
+          "id": 1190408,
+          "name": {
+            "ja": "伊集院",
+            "en": "Ijuin-in"
+          }
+        },
+        {
+          "id": 1190409,
+          "name": {
+            "ja": "薩摩松元",
+            "en": "Satsumi Matsumoto"
+          }
+        },
+        {
+          "id": 1190410,
+          "name": {
+            "ja": "上伊集院",
+            "en": "Higashi Ijuin"
+          }
+        },
+        {
+          "id": 1190413,
+          "name": {
+            "ja": "広木",
+            "en": "Hirogi"
+          }
+        },
+        {
+          "id": 1190411,
+          "name": {
+            "ja": "鹿児島中央",
+            "en": "Kagoshima Central"
+          }
+        },
+        {
+          "id": 1190412,
+          "name": {
+            "ja": "鹿児島",
+            "en": "Kagoshima"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11907,
+      "name": {
+        "ja": "JR日豊本線(佐伯～鹿児島中央)",
+        "en": "JR Nichinomi Line (Saeki - Kagoshima Middle)"
+      },
+      "stations": [
+        {
+          "id": 1190701,
+          "name": {
+            "ja": "佐伯",
+            "en": "Saeki"
+          }
+        },
+        {
+          "id": 1190702,
+          "name": {
+            "ja": "上岡",
+            "en": "Kamioka"
+          }
+        },
+        {
+          "id": 1190703,
+          "name": {
+            "ja": "直見",
+            "en": "Imminent observation"
+          }
+        },
+        {
+          "id": 1190704,
+          "name": {
+            "ja": "直川",
+            "en": "Naogawa"
+          }
+        },
+        {
+          "id": 1190705,
+          "name": {
+            "ja": "重岡",
+            "en": "Shizuoka"
+          }
+        },
+        {
+          "id": 1190706,
+          "name": {
+            "ja": "宗太郎",
+            "en": "Sotaro"
+          }
+        },
+        {
+          "id": 1190707,
+          "name": {
+            "ja": "市棚",
+            "en": "A rack"
+          }
+        },
+        {
+          "id": 1190708,
+          "name": {
+            "ja": "北川",
+            "en": "Kitagawa"
+          }
+        },
+        {
+          "id": 1190709,
+          "name": {
+            "ja": "日向長井",
+            "en": "Hyuga Nagai"
+          }
+        },
+        {
+          "id": 1190710,
+          "name": {
+            "ja": "北延岡",
+            "en": "Northern Okaoka"
+          }
+        },
+        {
+          "id": 1190711,
+          "name": {
+            "ja": "延岡",
+            "en": "Nobeoka"
+          }
+        },
+        {
+          "id": 1190712,
+          "name": {
+            "ja": "南延岡",
+            "en": "Nankinoka"
+          }
+        },
+        {
+          "id": 1190713,
+          "name": {
+            "ja": "旭ケ丘",
+            "en": "Asahigaoka"
+          }
+        },
+        {
+          "id": 1190714,
+          "name": {
+            "ja": "土々呂",
+            "en": "Soil bath"
+          }
+        },
+        {
+          "id": 1190715,
+          "name": {
+            "ja": "門川",
+            "en": "Kagawa"
+          }
+        },
+        {
+          "id": 1190716,
+          "name": {
+            "ja": "日向市",
+            "en": "Hyuga-shi"
+          }
+        },
+        {
+          "id": 1190717,
+          "name": {
+            "ja": "財光寺",
+            "en": "Shrine Temple"
+          }
+        },
+        {
+          "id": 1190718,
+          "name": {
+            "ja": "南日向",
+            "en": "Minami-Hyakunin"
+          }
+        },
+        {
+          "id": 1190719,
+          "name": {
+            "ja": "美々津",
+            "en": "Misuzu"
+          }
+        },
+        {
+          "id": 1190720,
+          "name": {
+            "ja": "東都農",
+            "en": "Tohto agriculture"
+          }
+        },
+        {
+          "id": 1190721,
+          "name": {
+            "ja": "都農",
+            "en": "Miyaki"
+          }
+        },
+        {
+          "id": 1190722,
+          "name": {
+            "ja": "川南",
+            "en": "Kawanami"
+          }
+        },
+        {
+          "id": 1190723,
+          "name": {
+            "ja": "高鍋",
+            "en": "Takanabe"
+          }
+        },
+        {
+          "id": 1190724,
+          "name": {
+            "ja": "日向新富",
+            "en": "Hinata Shinnita"
+          }
+        },
+        {
+          "id": 1190725,
+          "name": {
+            "ja": "佐土原",
+            "en": "Sayohara"
+          }
+        },
+        {
+          "id": 1190726,
+          "name": {
+            "ja": "日向住吉",
+            "en": "Hinata Sumi"
+          }
+        },
+        {
+          "id": 1190727,
+          "name": {
+            "ja": "蓮ケ池",
+            "en": "Lotus pond"
+          }
+        },
+        {
+          "id": 1190728,
+          "name": {
+            "ja": "宮崎神宮",
+            "en": "Miyazaki Shrine"
+          }
+        },
+        {
+          "id": 1190729,
+          "name": {
+            "ja": "宮崎",
+            "en": "Miyazaki"
+          }
+        },
+        {
+          "id": 1190730,
+          "name": {
+            "ja": "南宮崎",
+            "en": "Nan Miyazaki"
+          }
+        },
+        {
+          "id": 1190731,
+          "name": {
+            "ja": "加納",
+            "en": "Kano"
+          }
+        },
+        {
+          "id": 1190732,
+          "name": {
+            "ja": "清武",
+            "en": "Kiyotake"
+          }
+        },
+        {
+          "id": 1190733,
+          "name": {
+            "ja": "日向沓掛",
+            "en": "Hyuga Fudge"
+          }
+        },
+        {
+          "id": 1190734,
+          "name": {
+            "ja": "田野",
+            "en": "Tano"
+          }
+        },
+        {
+          "id": 1190735,
+          "name": {
+            "ja": "青井岳",
+            "en": "Aoi"
+          }
+        },
+        {
+          "id": 1190736,
+          "name": {
+            "ja": "山之口",
+            "en": "Yamanokuchi"
+          }
+        },
+        {
+          "id": 1190737,
+          "name": {
+            "ja": "餅原",
+            "en": "Yagihara"
+          }
+        },
+        {
+          "id": 1190738,
+          "name": {
+            "ja": "三股",
+            "en": "Fork"
+          }
+        },
+        {
+          "id": 1190739,
+          "name": {
+            "ja": "都城",
+            "en": "Miyakonojo"
+          }
+        },
+        {
+          "id": 1190740,
+          "name": {
+            "ja": "西都城",
+            "en": "Nishijo Castle"
+          }
+        },
+        {
+          "id": 1190741,
+          "name": {
+            "ja": "五十市",
+            "en": "Fifty-shi"
+          }
+        },
+        {
+          "id": 1190742,
+          "name": {
+            "ja": "財部",
+            "en": "Department"
+          }
+        },
+        {
+          "id": 1190743,
+          "name": {
+            "ja": "北俣",
+            "en": "Kitamata"
+          }
+        },
+        {
+          "id": 1190744,
+          "name": {
+            "ja": "大隅大川原",
+            "en": "Osumi Ogawara"
+          }
+        },
+        {
+          "id": 1190745,
+          "name": {
+            "ja": "北永野田",
+            "en": "Kita Nagano"
+          }
+        },
+        {
+          "id": 1190746,
+          "name": {
+            "ja": "霧島神宮",
+            "en": "Kirishima Shrine"
+          }
+        },
+        {
+          "id": 1190747,
+          "name": {
+            "ja": "国分",
+            "en": "Kokubu"
+          }
+        },
+        {
+          "id": 1190748,
+          "name": {
+            "ja": "隼人",
+            "en": "Hayato"
+          }
+        },
+        {
+          "id": 1190749,
+          "name": {
+            "ja": "加治木",
+            "en": "Kajiki"
+          }
+        },
+        {
+          "id": 1190750,
+          "name": {
+            "ja": "錦江",
+            "en": "Jinjiang"
+          }
+        },
+        {
+          "id": 1190751,
+          "name": {
+            "ja": "帖佐",
+            "en": "Chief"
+          }
+        },
+        {
+          "id": 1190752,
+          "name": {
+            "ja": "姶良",
+            "en": "Aira"
+          }
+        },
+        {
+          "id": 1190753,
+          "name": {
+            "ja": "重富",
+            "en": "Heaviness"
+          }
+        },
+        {
+          "id": 1190754,
+          "name": {
+            "ja": "竜ケ水",
+            "en": "Ryukei"
+          }
+        },
+        {
+          "id": 1190755,
+          "name": {
+            "ja": "鹿児島",
+            "en": "Kagoshima"
+          }
+        },
+        {
+          "id": 1190756,
+          "name": {
+            "ja": "鹿児島中央",
+            "en": "Kagoshima Central"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11925,
+      "name": {
+        "ja": "えびの高原線(八代～吉松)",
+        "en": "Ebino Takahara line (Yatsushiro - Yoshimatsu)"
+      },
+      "stations": [
+        {
+          "id": 1192501,
+          "name": {
+            "ja": "八代",
+            "en": "Yatsushiro"
+          }
+        },
+        {
+          "id": 1192502,
+          "name": {
+            "ja": "段",
+            "en": "Stage"
+          }
+        },
+        {
+          "id": 1192503,
+          "name": {
+            "ja": "坂本",
+            "en": "Sakamoto"
+          }
+        },
+        {
+          "id": 1192504,
+          "name": {
+            "ja": "葉木",
+            "en": "A leaf tree"
+          }
+        },
+        {
+          "id": 1192505,
+          "name": {
+            "ja": "鎌瀬",
+            "en": "Kamase"
+          }
+        },
+        {
+          "id": 1192506,
+          "name": {
+            "ja": "瀬戸石",
+            "en": "Setoishi"
+          }
+        },
+        {
+          "id": 1192507,
+          "name": {
+            "ja": "海路",
+            "en": "Sea route"
+          }
+        },
+        {
+          "id": 1192508,
+          "name": {
+            "ja": "吉尾",
+            "en": "Yoshio"
+          }
+        },
+        {
+          "id": 1192509,
+          "name": {
+            "ja": "白石",
+            "en": "Shiroishi"
+          }
+        },
+        {
+          "id": 1192510,
+          "name": {
+            "ja": "球泉洞",
+            "en": "Bow-dong"
+          }
+        },
+        {
+          "id": 1192511,
+          "name": {
+            "ja": "一勝地",
+            "en": "Winning place"
+          }
+        },
+        {
+          "id": 1192512,
+          "name": {
+            "ja": "那良口",
+            "en": "Narazo"
+          }
+        },
+        {
+          "id": 1192513,
+          "name": {
+            "ja": "渡",
+            "en": "Passing"
+          }
+        },
+        {
+          "id": 1192514,
+          "name": {
+            "ja": "西人吉",
+            "en": "Nishiyoshi Nishi"
+          }
+        },
+        {
+          "id": 1192515,
+          "name": {
+            "ja": "人吉",
+            "en": "Hitoyoshi"
+          }
+        },
+        {
+          "id": 1192516,
+          "name": {
+            "ja": "大畑",
+            "en": "Ohata"
+          }
+        },
+        {
+          "id": 1192517,
+          "name": {
+            "ja": "矢岳",
+            "en": "Yagatake"
+          }
+        },
+        {
+          "id": 1192518,
+          "name": {
+            "ja": "真幸",
+            "en": "Masukyuki"
+          }
+        },
+        {
+          "id": 1192519,
+          "name": {
+            "ja": "吉松",
+            "en": "Yoshimatsu"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11926,
+      "name": {
+        "ja": "JR肥薩線(吉松～隼人)",
+        "en": "JR Hitosaka Line (Yoshimatsu-Hayato)"
+      },
+      "stations": [
+        {
+          "id": 1192601,
+          "name": {
+            "ja": "吉松",
+            "en": "Yoshimatsu"
+          }
+        },
+        {
+          "id": 1192602,
+          "name": {
+            "ja": "栗野",
+            "en": "Kurano"
+          }
+        },
+        {
+          "id": 1192603,
+          "name": {
+            "ja": "大隅横川",
+            "en": "OGUMO Yokawa"
+          }
+        },
+        {
+          "id": 1192604,
+          "name": {
+            "ja": "植村",
+            "en": "Uemura"
+          }
+        },
+        {
+          "id": 1192605,
+          "name": {
+            "ja": "霧島温泉",
+            "en": "Kirishima Onsen"
+          }
+        },
+        {
+          "id": 1192606,
+          "name": {
+            "ja": "嘉例川",
+            "en": "Kawa River"
+          }
+        },
+        {
+          "id": 1192607,
+          "name": {
+            "ja": "中福良",
+            "en": "Good luck"
+          }
+        },
+        {
+          "id": 1192608,
+          "name": {
+            "ja": "表木山",
+            "en": "TAKIYAMA"
+          }
+        },
+        {
+          "id": 1192609,
+          "name": {
+            "ja": "日当山",
+            "en": "Sun Mount Sun"
+          }
+        },
+        {
+          "id": 1192610,
+          "name": {
+            "ja": "隼人",
+            "en": "Hayato"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11928,
+      "name": {
+        "ja": "JR日南線",
+        "en": "JR Nichinan Line"
+      },
+      "stations": [
+        {
+          "id": 1192801,
+          "name": {
+            "ja": "宮崎",
+            "en": "Miyazaki"
+          }
+        },
+        {
+          "id": 1192802,
+          "name": {
+            "ja": "南宮崎",
+            "en": "Nan Miyazaki"
+          }
+        },
+        {
+          "id": 1192803,
+          "name": {
+            "ja": "田吉",
+            "en": "Takeyoshi"
+          }
+        },
+        {
+          "id": 1192804,
+          "name": {
+            "ja": "南方",
+            "en": "Southward"
+          }
+        },
+        {
+          "id": 1192805,
+          "name": {
+            "ja": "木花",
+            "en": "Tree flower"
+          }
+        },
+        {
+          "id": 1192806,
+          "name": {
+            "ja": "運動公園",
+            "en": "Sports park"
+          }
+        },
+        {
+          "id": 1192807,
+          "name": {
+            "ja": "曽山寺",
+            "en": "Sōshanji"
+          }
+        },
+        {
+          "id": 1192808,
+          "name": {
+            "ja": "子供の国",
+            "en": "Children's country"
+          }
+        },
+        {
+          "id": 1192809,
+          "name": {
+            "ja": "青島",
+            "en": "Qingdao"
+          }
+        },
+        {
+          "id": 1192810,
+          "name": {
+            "ja": "折生迫",
+            "en": "Intrigue"
+          }
+        },
+        {
+          "id": 1192811,
+          "name": {
+            "ja": "内海",
+            "en": "Utsumi"
+          }
+        },
+        {
+          "id": 1192812,
+          "name": {
+            "ja": "小内海",
+            "en": "Shimogei"
+          }
+        },
+        {
+          "id": 1192813,
+          "name": {
+            "ja": "伊比井",
+            "en": "Itai"
+          }
+        },
+        {
+          "id": 1192814,
+          "name": {
+            "ja": "北郷",
+            "en": "Kita Town"
+          }
+        },
+        {
+          "id": 1192815,
+          "name": {
+            "ja": "内之田",
+            "en": "Uchida"
+          }
+        },
+        {
+          "id": 1192816,
+          "name": {
+            "ja": "飫肥",
+            "en": "Fertilizer"
+          }
+        },
+        {
+          "id": 1192817,
+          "name": {
+            "ja": "日南",
+            "en": "Nichinan"
+          }
+        },
+        {
+          "id": 1192818,
+          "name": {
+            "ja": "油津",
+            "en": "Oyatsu"
+          }
+        },
+        {
+          "id": 1192819,
+          "name": {
+            "ja": "大堂津",
+            "en": "Ootodatsu"
+          }
+        },
+        {
+          "id": 1192820,
+          "name": {
+            "ja": "南郷",
+            "en": "Nango"
+          }
+        },
+        {
+          "id": 1192821,
+          "name": {
+            "ja": "谷之口",
+            "en": "Tanikaguchi"
+          }
+        },
+        {
+          "id": 1192822,
+          "name": {
+            "ja": "榎原",
+            "en": "Enokihara"
+          }
+        },
+        {
+          "id": 1192823,
+          "name": {
+            "ja": "日向大束",
+            "en": "Hyuga Oyado"
+          }
+        },
+        {
+          "id": 1192824,
+          "name": {
+            "ja": "日向北方",
+            "en": "Hyuga-ku"
+          }
+        },
+        {
+          "id": 1192825,
+          "name": {
+            "ja": "串間",
+            "en": "Kushima"
+          }
+        },
+        {
+          "id": 1192826,
+          "name": {
+            "ja": "福島今町",
+            "en": "Fukushima Imamachi"
+          }
+        },
+        {
+          "id": 1192827,
+          "name": {
+            "ja": "福島高松",
+            "en": "Fukushima Takamatsu"
+          }
+        },
+        {
+          "id": 1192828,
+          "name": {
+            "ja": "大隅夏井",
+            "en": "Oosaki Niai"
+          }
+        },
+        {
+          "id": 1192829,
+          "name": {
+            "ja": "志布志",
+            "en": "Shibushi"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11929,
+      "name": {
+        "ja": "えびの高原線",
+        "en": "Ebino Takahara line"
+      },
+      "stations": [
+        {
+          "id": 1192901,
+          "name": {
+            "ja": "都城",
+            "en": "Miyakonojo"
+          }
+        },
+        {
+          "id": 1192902,
+          "name": {
+            "ja": "日向庄内",
+            "en": "Hyugajyo"
+          }
+        },
+        {
+          "id": 1192903,
+          "name": {
+            "ja": "谷頭",
+            "en": "Valley head"
+          }
+        },
+        {
+          "id": 1192904,
+          "name": {
+            "ja": "万ケ塚",
+            "en": "Everything"
+          }
+        },
+        {
+          "id": 1192905,
+          "name": {
+            "ja": "東高崎",
+            "en": "Togakusaki"
+          }
+        },
+        {
+          "id": 1192906,
+          "name": {
+            "ja": "高崎新田",
+            "en": "Takasaki Shinda"
+          }
+        },
+        {
+          "id": 1192907,
+          "name": {
+            "ja": "日向前田",
+            "en": "Hinata Maeda"
+          }
+        },
+        {
+          "id": 1192908,
+          "name": {
+            "ja": "高原",
+            "en": "Plateau"
+          }
+        },
+        {
+          "id": 1192909,
+          "name": {
+            "ja": "広原",
+            "en": "Hirohara"
+          }
+        },
+        {
+          "id": 1192910,
+          "name": {
+            "ja": "小林",
+            "en": "Kobayashi"
+          }
+        },
+        {
+          "id": 1192911,
+          "name": {
+            "ja": "西小林",
+            "en": "Nishi Kobayashi"
+          }
+        },
+        {
+          "id": 1192912,
+          "name": {
+            "ja": "えびの飯野",
+            "en": "Ebi noino"
+          }
+        },
+        {
+          "id": 1192913,
+          "name": {
+            "ja": "えびの上江",
+            "en": "Shrimp Ebino"
+          }
+        },
+        {
+          "id": 1192914,
+          "name": {
+            "ja": "えびの",
+            "en": "Ebino"
+          }
+        },
+        {
+          "id": 1192915,
+          "name": {
+            "ja": "京町温泉",
+            "en": "Kyomachi Onsen"
+          }
+        },
+        {
+          "id": 1192916,
+          "name": {
+            "ja": "鶴丸",
+            "en": "Tsurumaru"
+          }
+        },
+        {
+          "id": 1192917,
+          "name": {
+            "ja": "吉松",
+            "en": "Yoshimatsu"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11930,
+      "name": {
+        "ja": "JR指宿枕崎線",
+        "en": "JR Ibusuku Bosakazaki Line"
+      },
+      "stations": [
+        {
+          "id": 1193001,
+          "name": {
+            "ja": "鹿児島中央",
+            "en": "Kagoshima Central"
+          }
+        },
+        {
+          "id": 1193002,
+          "name": {
+            "ja": "郡元",
+            "en": "Gunma"
+          }
+        },
+        {
+          "id": 1193003,
+          "name": {
+            "ja": "南鹿児島",
+            "en": "Minami Kagoshima"
+          }
+        },
+        {
+          "id": 1193004,
+          "name": {
+            "ja": "宇宿",
+            "en": "Uzuki"
+          }
+        },
+        {
+          "id": 1193005,
+          "name": {
+            "ja": "谷山",
+            "en": "Taniyama"
+          }
+        },
+        {
+          "id": 1193006,
+          "name": {
+            "ja": "慈眼寺",
+            "en": "Tianzhi Temple"
+          }
+        },
+        {
+          "id": 1193007,
+          "name": {
+            "ja": "坂之上",
+            "en": "Sakanojima"
+          }
+        },
+        {
+          "id": 1193008,
+          "name": {
+            "ja": "五位野",
+            "en": "Goshono"
+          }
+        },
+        {
+          "id": 1193009,
+          "name": {
+            "ja": "平川",
+            "en": "Hirakawa"
+          }
+        },
+        {
+          "id": 1193010,
+          "name": {
+            "ja": "瀬々串",
+            "en": "Sezusukyu"
+          }
+        },
+        {
+          "id": 1193011,
+          "name": {
+            "ja": "中名",
+            "en": "Chinese name"
+          }
+        },
+        {
+          "id": 1193012,
+          "name": {
+            "ja": "喜入",
+            "en": "Entertainment"
+          }
+        },
+        {
+          "id": 1193013,
+          "name": {
+            "ja": "前之浜",
+            "en": "Maenohama"
+          }
+        },
+        {
+          "id": 1193014,
+          "name": {
+            "ja": "生見",
+            "en": "Raw look"
+          }
+        },
+        {
+          "id": 1193015,
+          "name": {
+            "ja": "薩摩今和泉",
+            "en": "Satsuma Miwa"
+          }
+        },
+        {
+          "id": 1193016,
+          "name": {
+            "ja": "宮ケ浜",
+            "en": "Miyagahama"
+          }
+        },
+        {
+          "id": 1193017,
+          "name": {
+            "ja": "二月田",
+            "en": "Februda"
+          }
+        },
+        {
+          "id": 1193018,
+          "name": {
+            "ja": "指宿",
+            "en": "Ibusuki"
+          }
+        },
+        {
+          "id": 1193019,
+          "name": {
+            "ja": "山川",
+            "en": "Yamagawa"
+          }
+        },
+        {
+          "id": 1193020,
+          "name": {
+            "ja": "大山",
+            "en": "Oyama"
+          }
+        },
+        {
+          "id": 1193021,
+          "name": {
+            "ja": "西大山",
+            "en": "Nishi Oyama"
+          }
+        },
+        {
+          "id": 1193022,
+          "name": {
+            "ja": "薩摩川尻",
+            "en": "Satsuma Kawajiri"
+          }
+        },
+        {
+          "id": 1193023,
+          "name": {
+            "ja": "東開聞",
+            "en": "Higashi Shimbun"
+          }
+        },
+        {
+          "id": 1193024,
+          "name": {
+            "ja": "開聞",
+            "en": "Dubbing"
+          }
+        },
+        {
+          "id": 1193025,
+          "name": {
+            "ja": "入野",
+            "en": "Irene"
+          }
+        },
+        {
+          "id": 1193026,
+          "name": {
+            "ja": "頴娃",
+            "en": "Shigeru"
+          }
+        },
+        {
+          "id": 1193027,
+          "name": {
+            "ja": "西頴娃",
+            "en": "Nishi Hiroshi"
+          }
+        },
+        {
+          "id": 1193028,
+          "name": {
+            "ja": "御領",
+            "en": "You"
+          }
+        },
+        {
+          "id": 1193029,
+          "name": {
+            "ja": "石垣",
+            "en": "Ishigaki"
+          }
+        },
+        {
+          "id": 1193030,
+          "name": {
+            "ja": "水成川",
+            "en": "Mizushigawa"
+          }
+        },
+        {
+          "id": 1193031,
+          "name": {
+            "ja": "頴娃大川",
+            "en": "Eikoda Ogawa"
+          }
+        },
+        {
+          "id": 1193032,
+          "name": {
+            "ja": "松ケ浦",
+            "en": "Matsukeura"
+          }
+        },
+        {
+          "id": 1193033,
+          "name": {
+            "ja": "薩摩塩屋",
+            "en": "Satsuma salt shop"
+          }
+        },
+        {
+          "id": 1193034,
+          "name": {
+            "ja": "白沢",
+            "en": "Shirasawa"
+          }
+        },
+        {
+          "id": 1193035,
+          "name": {
+            "ja": "薩摩板敷",
+            "en": "Satsuma board"
+          }
+        },
+        {
+          "id": 1193036,
+          "name": {
+            "ja": "枕崎",
+            "en": "Makurazaki"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99921,
+      "name": {
+        "ja": "肥薩おれんじ鉄道線",
+        "en": "Hydrangea Orenji Railway Line"
+      },
+      "stations": [
+        {
+          "id": 9992101,
+          "name": {
+            "ja": "八代",
+            "en": "Yatsushiro"
+          }
+        },
+        {
+          "id": 9992102,
+          "name": {
+            "ja": "肥後高田",
+            "en": "Higo Takata"
+          }
+        },
+        {
+          "id": 9992103,
+          "name": {
+            "ja": "日奈久温泉",
+            "en": "Hinagu Onsen"
+          }
+        },
+        {
+          "id": 9992104,
+          "name": {
+            "ja": "肥後二見",
+            "en": "Higozumi"
+          }
+        },
+        {
+          "id": 9992105,
+          "name": {
+            "ja": "上田浦",
+            "en": "Ueda-ur"
+          }
+        },
+        {
+          "id": 9992106,
+          "name": {
+            "ja": "たのうら御立岬公園",
+            "en": "Tatara Otori Cape Park"
+          }
+        },
+        {
+          "id": 9992107,
+          "name": {
+            "ja": "肥後田浦",
+            "en": "Higo Taura"
+          }
+        },
+        {
+          "id": 9992108,
+          "name": {
+            "ja": "海浦",
+            "en": "Haeoura"
+          }
+        },
+        {
+          "id": 9992109,
+          "name": {
+            "ja": "佐敷",
+            "en": "Sasagi"
+          }
+        },
+        {
+          "id": 9992110,
+          "name": {
+            "ja": "湯浦",
+            "en": "Yuura"
+          }
+        },
+        {
+          "id": 9992111,
+          "name": {
+            "ja": "津奈木",
+            "en": "Tsunagi"
+          }
+        },
+        {
+          "id": 9992112,
+          "name": {
+            "ja": "新水俣",
+            "en": "New Minamata"
+          }
+        },
+        {
+          "id": 9992113,
+          "name": {
+            "ja": "水俣",
+            "en": "Minamata"
+          }
+        },
+        {
+          "id": 9992114,
+          "name": {
+            "ja": "袋",
+            "en": "bag"
+          }
+        },
+        {
+          "id": 9992115,
+          "name": {
+            "ja": "米ノ津",
+            "en": "Yonezu"
+          }
+        },
+        {
+          "id": 9992116,
+          "name": {
+            "ja": "出水",
+            "en": "Flood"
+          }
+        },
+        {
+          "id": 9992117,
+          "name": {
+            "ja": "西出水",
+            "en": "Nishishizu"
+          }
+        },
+        {
+          "id": 9992118,
+          "name": {
+            "ja": "高尾野",
+            "en": "Takano"
+          }
+        },
+        {
+          "id": 9992119,
+          "name": {
+            "ja": "野田郷",
+            "en": "Noda Town"
+          }
+        },
+        {
+          "id": 9992120,
+          "name": {
+            "ja": "折口",
+            "en": "Folding"
+          }
+        },
+        {
+          "id": 9992121,
+          "name": {
+            "ja": "阿久根",
+            "en": "Akune"
+          }
+        },
+        {
+          "id": 9992122,
+          "name": {
+            "ja": "牛ノ浜",
+            "en": "Beehama"
+          }
+        },
+        {
+          "id": 9992123,
+          "name": {
+            "ja": "薩摩大川",
+            "en": "Satsuma Ogawa"
+          }
+        },
+        {
+          "id": 9992124,
+          "name": {
+            "ja": "西方",
+            "en": "West side"
+          }
+        },
+        {
+          "id": 9992125,
+          "name": {
+            "ja": "薩摩高城",
+            "en": "Satsuma Takakaguchi"
+          }
+        },
+        {
+          "id": 9992126,
+          "name": {
+            "ja": "草道",
+            "en": "Grass road"
+          }
+        },
+        {
+          "id": 9992127,
+          "name": {
+            "ja": "上川内",
+            "en": "Kamikawauchi"
+          }
+        },
+        {
+          "id": 9992128,
+          "name": {
+            "ja": "川内",
+            "en": "Kawauchi"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99925,
+      "name": {
+        "ja": "鹿児島市電１系統",
+        "en": "1 Kagoshima Tram line"
+      },
+      "stations": [
+        {
+          "id": 9992501,
+          "name": {
+            "ja": "鹿児島駅前",
+            "en": "Kagoshima Ekimae"
+          }
+        },
+        {
+          "id": 9992502,
+          "name": {
+            "ja": "桜島桟橋",
+            "en": "Sakurajima Pier"
+          }
+        },
+        {
+          "id": 9992503,
+          "name": {
+            "ja": "水族館口",
+            "en": "Aquarium entrance"
+          }
+        },
+        {
+          "id": 9992504,
+          "name": {
+            "ja": "市役所前",
+            "en": "City Hall"
+          }
+        },
+        {
+          "id": 9992505,
+          "name": {
+            "ja": "朝日通",
+            "en": "Asahi-dori"
+          }
+        },
+        {
+          "id": 9992506,
+          "name": {
+            "ja": "いづろ通",
+            "en": "Izuru Tōtsu"
+          }
+        },
+        {
+          "id": 9992507,
+          "name": {
+            "ja": "天文館通",
+            "en": "Astronomical Observatory"
+          }
+        },
+        {
+          "id": 9992508,
+          "name": {
+            "ja": "高見馬場",
+            "en": "Takami Baba"
+          }
+        },
+        {
+          "id": 9992509,
+          "name": {
+            "ja": "甲東中学校前",
+            "en": "Xiao Junior High School"
+          }
+        },
+        {
+          "id": 9992510,
+          "name": {
+            "ja": "新屋敷",
+            "en": "Shinriya"
+          }
+        },
+        {
+          "id": 9992511,
+          "name": {
+            "ja": "武之橋",
+            "en": "Takeo Bridge"
+          }
+        },
+        {
+          "id": 9992512,
+          "name": {
+            "ja": "二中通",
+            "en": "Two bus stops"
+          }
+        },
+        {
+          "id": 9992513,
+          "name": {
+            "ja": "荒田八幡",
+            "en": "Arata Yawata"
+          }
+        },
+        {
+          "id": 9992514,
+          "name": {
+            "ja": "騎射場",
+            "en": "Cavalry place"
+          }
+        },
+        {
+          "id": 9992515,
+          "name": {
+            "ja": "鴨池",
+            "en": "Kamoike"
+          }
+        },
+        {
+          "id": 9992516,
+          "name": {
+            "ja": "郡元",
+            "en": "Gunma"
+          }
+        },
+        {
+          "id": 9992525,
+          "name": {
+            "ja": "郡元南",
+            "en": "Gunma Minami"
+          }
+        },
+        {
+          "id": 9992517,
+          "name": {
+            "ja": "涙橋",
+            "en": "Tear bridge"
+          }
+        },
+        {
+          "id": 9992518,
+          "name": {
+            "ja": "南鹿児島駅前",
+            "en": "Minami Kagoshima Ekimae"
+          }
+        },
+        {
+          "id": 9992519,
+          "name": {
+            "ja": "二軒茶屋",
+            "en": "Nagiya Restaurant"
+          }
+        },
+        {
+          "id": 9992520,
+          "name": {
+            "ja": "宇宿一丁目",
+            "en": "Uzu 1-chome"
+          }
+        },
+        {
+          "id": 9992521,
+          "name": {
+            "ja": "脇田",
+            "en": "Wakita"
+          }
+        },
+        {
+          "id": 9992522,
+          "name": {
+            "ja": "笹貫",
+            "en": "Sasanuki"
+          }
+        },
+        {
+          "id": 9992523,
+          "name": {
+            "ja": "上塩屋",
+            "en": "Upper shop"
+          }
+        },
+        {
+          "id": 9992524,
+          "name": {
+            "ja": "谷山",
+            "en": "Taniyama"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99926,
+      "name": {
+        "ja": "鹿児島市電２系統",
+        "en": "2 Kagoshima Trams"
+      },
+      "stations": [
+        {
+          "id": 9992601,
+          "name": {
+            "ja": "鹿児島駅前",
+            "en": "Kagoshima Ekimae"
+          }
+        },
+        {
+          "id": 9992602,
+          "name": {
+            "ja": "桜島桟橋",
+            "en": "Sakurajima Pier"
+          }
+        },
+        {
+          "id": 9992603,
+          "name": {
+            "ja": "水族館口",
+            "en": "Aquarium entrance"
+          }
+        },
+        {
+          "id": 9992604,
+          "name": {
+            "ja": "市役所前",
+            "en": "City Hall"
+          }
+        },
+        {
+          "id": 9992605,
+          "name": {
+            "ja": "朝日通",
+            "en": "Asahi-dori"
+          }
+        },
+        {
+          "id": 9992606,
+          "name": {
+            "ja": "いづろ通",
+            "en": "Izuru Tōtsu"
+          }
+        },
+        {
+          "id": 9992607,
+          "name": {
+            "ja": "天文館通",
+            "en": "Astronomical Observatory"
+          }
+        },
+        {
+          "id": 9992608,
+          "name": {
+            "ja": "高見馬場",
+            "en": "Takami Baba"
+          }
+        },
+        {
+          "id": 9992609,
+          "name": {
+            "ja": "加治屋町",
+            "en": "Kajiki cho"
+          }
+        },
+        {
+          "id": 9992610,
+          "name": {
+            "ja": "高見橋",
+            "en": "Takami Bridge"
+          }
+        },
+        {
+          "id": 9992611,
+          "name": {
+            "ja": "鹿児島中央駅前",
+            "en": "Kagoshima Central Station front"
+          }
+        },
+        {
+          "id": 9992612,
+          "name": {
+            "ja": "都通",
+            "en": "Tokyo"
+          }
+        },
+        {
+          "id": 9992613,
+          "name": {
+            "ja": "中洲通",
+            "en": "Nakasu"
+          }
+        },
+        {
+          "id": 9992614,
+          "name": {
+            "ja": "市立病院前",
+            "en": "In front of municipal hospital"
+          }
+        },
+        {
+          "id": 9992615,
+          "name": {
+            "ja": "神田（交通局前）",
+            "en": "Kanda (in front of the Transportation Agency)"
+          }
+        },
+        {
+          "id": 9992616,
+          "name": {
+            "ja": "唐湊",
+            "en": "Shang Minato"
+          }
+        },
+        {
+          "id": 9992617,
+          "name": {
+            "ja": "工学部前",
+            "en": "Engineering department"
+          }
+        },
+        {
+          "id": 9992618,
+          "name": {
+            "ja": "純心学園前",
+            "en": "Junior school garden front"
+          }
+        },
+        {
+          "id": 9992619,
+          "name": {
+            "ja": "中郡",
+            "en": "Nakamachi"
+          }
+        },
+        {
+          "id": 9992620,
+          "name": {
+            "ja": "郡元",
+            "en": "Gunma"
+          }
+        }
+      ]
+    }
+  ]
+}

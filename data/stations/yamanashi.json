@@ -1,0 +1,1032 @@
+{
+  "id": 19,
+  "name": {
+    "ja": "山梨県",
+    "en": "Yamanashi Prefecture"
+  },
+  "lines": [
+    {
+      "id": 11311,
+      "name": {
+        "ja": "JR中央本線(東京～塩尻)",
+        "en": "JR Chuo Main Line (Tokyo ~ Shiojiri)"
+      },
+      "stations": [
+        {
+          "id": 1131101,
+          "name": {
+            "ja": "東京",
+            "en": "Tokyo"
+          }
+        },
+        {
+          "id": 1131102,
+          "name": {
+            "ja": "四ツ谷",
+            "en": "Yotsuya"
+          }
+        },
+        {
+          "id": 1131103,
+          "name": {
+            "ja": "新宿",
+            "en": "Shinjuku"
+          }
+        },
+        {
+          "id": 1131104,
+          "name": {
+            "ja": "吉祥寺",
+            "en": "Kichijoji"
+          }
+        },
+        {
+          "id": 1131105,
+          "name": {
+            "ja": "三鷹",
+            "en": "Mitaka"
+          }
+        },
+        {
+          "id": 1131106,
+          "name": {
+            "ja": "国分寺",
+            "en": "Kokubunji"
+          }
+        },
+        {
+          "id": 1131107,
+          "name": {
+            "ja": "立川",
+            "en": "Tachikawa"
+          }
+        },
+        {
+          "id": 1131108,
+          "name": {
+            "ja": "日野",
+            "en": "Hino"
+          }
+        },
+        {
+          "id": 1131109,
+          "name": {
+            "ja": "豊田",
+            "en": "Toyota"
+          }
+        },
+        {
+          "id": 1131110,
+          "name": {
+            "ja": "八王子",
+            "en": "Hachioji"
+          }
+        },
+        {
+          "id": 1131111,
+          "name": {
+            "ja": "西八王子",
+            "en": "Nishi Hachioji"
+          }
+        },
+        {
+          "id": 1131112,
+          "name": {
+            "ja": "高尾",
+            "en": "Takao"
+          }
+        },
+        {
+          "id": 1131113,
+          "name": {
+            "ja": "相模湖",
+            "en": "Lake Sagami"
+          }
+        },
+        {
+          "id": 1131114,
+          "name": {
+            "ja": "藤野",
+            "en": "Fujino"
+          }
+        },
+        {
+          "id": 1131115,
+          "name": {
+            "ja": "上野原",
+            "en": "Uenohara"
+          }
+        },
+        {
+          "id": 1131116,
+          "name": {
+            "ja": "四方津",
+            "en": "Shizuzu"
+          }
+        },
+        {
+          "id": 1131117,
+          "name": {
+            "ja": "梁川",
+            "en": "Yangcheon"
+          }
+        },
+        {
+          "id": 1131118,
+          "name": {
+            "ja": "鳥沢",
+            "en": "Torisawa"
+          }
+        },
+        {
+          "id": 1131119,
+          "name": {
+            "ja": "猿橋",
+            "en": "Saruibashi"
+          }
+        },
+        {
+          "id": 1131120,
+          "name": {
+            "ja": "大月",
+            "en": "Otsuki"
+          }
+        },
+        {
+          "id": 1131121,
+          "name": {
+            "ja": "初狩",
+            "en": "First hunting"
+          }
+        },
+        {
+          "id": 1131122,
+          "name": {
+            "ja": "笹子",
+            "en": "Sasako"
+          }
+        },
+        {
+          "id": 1131123,
+          "name": {
+            "ja": "甲斐大和",
+            "en": "Kai Yamato"
+          }
+        },
+        {
+          "id": 1131124,
+          "name": {
+            "ja": "勝沼ぶどう郷",
+            "en": "Katsunuma Vineyards"
+          }
+        },
+        {
+          "id": 1131125,
+          "name": {
+            "ja": "塩山",
+            "en": "Shioyama"
+          }
+        },
+        {
+          "id": 1131126,
+          "name": {
+            "ja": "東山梨",
+            "en": "Higashiyama Prey"
+          }
+        },
+        {
+          "id": 1131127,
+          "name": {
+            "ja": "山梨市",
+            "en": "Yamanashi"
+          }
+        },
+        {
+          "id": 1131128,
+          "name": {
+            "ja": "春日居町",
+            "en": "Kasugai"
+          }
+        },
+        {
+          "id": 1131129,
+          "name": {
+            "ja": "石和温泉",
+            "en": "Isawa hot spring"
+          }
+        },
+        {
+          "id": 1131130,
+          "name": {
+            "ja": "酒折",
+            "en": "Liquor placement"
+          }
+        },
+        {
+          "id": 1131131,
+          "name": {
+            "ja": "甲府",
+            "en": "Kofu"
+          }
+        },
+        {
+          "id": 1131132,
+          "name": {
+            "ja": "竜王",
+            "en": "Dragon King"
+          }
+        },
+        {
+          "id": 1131133,
+          "name": {
+            "ja": "塩崎",
+            "en": "Shiozaki"
+          }
+        },
+        {
+          "id": 1131134,
+          "name": {
+            "ja": "韮崎",
+            "en": "Nazaki"
+          }
+        },
+        {
+          "id": 1131135,
+          "name": {
+            "ja": "新府",
+            "en": "Shinju"
+          }
+        },
+        {
+          "id": 1131136,
+          "name": {
+            "ja": "穴山",
+            "en": "Holeyama"
+          }
+        },
+        {
+          "id": 1131137,
+          "name": {
+            "ja": "日野春",
+            "en": "Hino spring"
+          }
+        },
+        {
+          "id": 1131138,
+          "name": {
+            "ja": "長坂",
+            "en": "Nagasaka"
+          }
+        },
+        {
+          "id": 1131139,
+          "name": {
+            "ja": "小淵沢",
+            "en": "Kobuchizawa"
+          }
+        },
+        {
+          "id": 1131140,
+          "name": {
+            "ja": "信濃境",
+            "en": "Shinano border"
+          }
+        },
+        {
+          "id": 1131141,
+          "name": {
+            "ja": "富士見",
+            "en": "Fujimi"
+          }
+        },
+        {
+          "id": 1131142,
+          "name": {
+            "ja": "すずらんの里",
+            "en": "Suzuranono"
+          }
+        },
+        {
+          "id": 1131143,
+          "name": {
+            "ja": "青柳",
+            "en": "Aoyagi"
+          }
+        },
+        {
+          "id": 1131144,
+          "name": {
+            "ja": "茅野",
+            "en": "Chino"
+          }
+        },
+        {
+          "id": 1131145,
+          "name": {
+            "ja": "上諏訪",
+            "en": "Kamisuwa"
+          }
+        },
+        {
+          "id": 1131146,
+          "name": {
+            "ja": "下諏訪",
+            "en": "Shimosuwa"
+          }
+        },
+        {
+          "id": 1131147,
+          "name": {
+            "ja": "岡谷",
+            "en": "Okaya"
+          }
+        },
+        {
+          "id": 1131148,
+          "name": {
+            "ja": "みどり湖",
+            "en": "Midori Lake"
+          }
+        },
+        {
+          "id": 1131149,
+          "name": {
+            "ja": "川岸",
+            "en": "Riverside"
+          }
+        },
+        {
+          "id": 1131150,
+          "name": {
+            "ja": "辰野",
+            "en": "Tatsuno"
+          }
+        },
+        {
+          "id": 1131151,
+          "name": {
+            "ja": "信濃川島",
+            "en": "Shinano-gawa"
+          }
+        },
+        {
+          "id": 1131152,
+          "name": {
+            "ja": "小野",
+            "en": "Ono"
+          }
+        },
+        {
+          "id": 1131153,
+          "name": {
+            "ja": "塩尻",
+            "en": "Shiojiri"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11401,
+      "name": {
+        "ja": "八ヶ岳高原線",
+        "en": "Yatsugatake Kogen Line"
+      },
+      "stations": [
+        {
+          "id": 1140101,
+          "name": {
+            "ja": "小淵沢",
+            "en": "Kobuchizawa"
+          }
+        },
+        {
+          "id": 1140102,
+          "name": {
+            "ja": "甲斐小泉",
+            "en": "Kai Koizumi"
+          }
+        },
+        {
+          "id": 1140103,
+          "name": {
+            "ja": "甲斐大泉",
+            "en": "Kai Oizumi"
+          }
+        },
+        {
+          "id": 1140104,
+          "name": {
+            "ja": "清里",
+            "en": "Kiyosato"
+          }
+        },
+        {
+          "id": 1140105,
+          "name": {
+            "ja": "野辺山",
+            "en": "Nobeyama"
+          }
+        },
+        {
+          "id": 1140106,
+          "name": {
+            "ja": "信濃川上",
+            "en": "Shinanoji river"
+          }
+        },
+        {
+          "id": 1140107,
+          "name": {
+            "ja": "佐久広瀬",
+            "en": "Saku Hirose"
+          }
+        },
+        {
+          "id": 1140108,
+          "name": {
+            "ja": "佐久海ノ口",
+            "en": "Saku Hanokuchi"
+          }
+        },
+        {
+          "id": 1140109,
+          "name": {
+            "ja": "海尻",
+            "en": "Sea ass"
+          }
+        },
+        {
+          "id": 1140110,
+          "name": {
+            "ja": "松原湖",
+            "en": "Lake Matsubara"
+          }
+        },
+        {
+          "id": 1140111,
+          "name": {
+            "ja": "小海",
+            "en": "Koumi"
+          }
+        },
+        {
+          "id": 1140112,
+          "name": {
+            "ja": "馬流",
+            "en": "Horse stream"
+          }
+        },
+        {
+          "id": 1140113,
+          "name": {
+            "ja": "高岩",
+            "en": "Takayama"
+          }
+        },
+        {
+          "id": 1140114,
+          "name": {
+            "ja": "八千穂",
+            "en": "Yachiho"
+          }
+        },
+        {
+          "id": 1140115,
+          "name": {
+            "ja": "海瀬",
+            "en": "Hase"
+          }
+        },
+        {
+          "id": 1140116,
+          "name": {
+            "ja": "羽黒下",
+            "en": "Haguroguchi"
+          }
+        },
+        {
+          "id": 1140117,
+          "name": {
+            "ja": "青沼",
+            "en": "Aonuma"
+          }
+        },
+        {
+          "id": 1140118,
+          "name": {
+            "ja": "臼田",
+            "en": "Usuda"
+          }
+        },
+        {
+          "id": 1140119,
+          "name": {
+            "ja": "龍岡城",
+            "en": "Tatsuoka castle"
+          }
+        },
+        {
+          "id": 1140120,
+          "name": {
+            "ja": "太田部",
+            "en": "Ota Department"
+          }
+        },
+        {
+          "id": 1140121,
+          "name": {
+            "ja": "中込",
+            "en": "Nakagome"
+          }
+        },
+        {
+          "id": 1140122,
+          "name": {
+            "ja": "滑津",
+            "en": "Rinshu"
+          }
+        },
+        {
+          "id": 1140123,
+          "name": {
+            "ja": "北中込",
+            "en": "North North Atmosphere"
+          }
+        },
+        {
+          "id": 1140124,
+          "name": {
+            "ja": "岩村田",
+            "en": "Iwamurada"
+          }
+        },
+        {
+          "id": 1140125,
+          "name": {
+            "ja": "佐久平",
+            "en": "Sakuhei"
+          }
+        },
+        {
+          "id": 1140126,
+          "name": {
+            "ja": "中佐都",
+            "en": "Nakasato"
+          }
+        },
+        {
+          "id": 1140127,
+          "name": {
+            "ja": "美里",
+            "en": "Misato"
+          }
+        },
+        {
+          "id": 1140128,
+          "name": {
+            "ja": "三岡",
+            "en": "Mika"
+          }
+        },
+        {
+          "id": 1140129,
+          "name": {
+            "ja": "乙女",
+            "en": "Maiden"
+          }
+        },
+        {
+          "id": 1140130,
+          "name": {
+            "ja": "東小諸",
+            "en": "Toukyo"
+          }
+        },
+        {
+          "id": 1140131,
+          "name": {
+            "ja": "小諸",
+            "en": "Komoro"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11402,
+      "name": {
+        "ja": "JR身延線",
+        "en": "JR Minobu Line"
+      },
+      "stations": [
+        {
+          "id": 1140201,
+          "name": {
+            "ja": "富士",
+            "en": "Fuji"
+          }
+        },
+        {
+          "id": 1140202,
+          "name": {
+            "ja": "柚木",
+            "en": "Yuki"
+          }
+        },
+        {
+          "id": 1140203,
+          "name": {
+            "ja": "竪堀",
+            "en": "A well bore"
+          }
+        },
+        {
+          "id": 1140204,
+          "name": {
+            "ja": "入山瀬",
+            "en": "Iriyama"
+          }
+        },
+        {
+          "id": 1140205,
+          "name": {
+            "ja": "富士根",
+            "en": "Fujiro"
+          }
+        },
+        {
+          "id": 1140206,
+          "name": {
+            "ja": "源道寺",
+            "en": "Genji temple"
+          }
+        },
+        {
+          "id": 1140207,
+          "name": {
+            "ja": "富士宮",
+            "en": "Fujinomiya"
+          }
+        },
+        {
+          "id": 1140208,
+          "name": {
+            "ja": "西富士宮",
+            "en": "West Fujinomiya"
+          }
+        },
+        {
+          "id": 1140209,
+          "name": {
+            "ja": "沼久保",
+            "en": "Numakubo"
+          }
+        },
+        {
+          "id": 1140210,
+          "name": {
+            "ja": "芝川",
+            "en": "Shibakawa"
+          }
+        },
+        {
+          "id": 1140211,
+          "name": {
+            "ja": "稲子",
+            "en": "Iniko"
+          }
+        },
+        {
+          "id": 1140212,
+          "name": {
+            "ja": "十島",
+            "en": "Ten islands"
+          }
+        },
+        {
+          "id": 1140213,
+          "name": {
+            "ja": "井出",
+            "en": "Ide"
+          }
+        },
+        {
+          "id": 1140214,
+          "name": {
+            "ja": "寄畑",
+            "en": "Farmland"
+          }
+        },
+        {
+          "id": 1140215,
+          "name": {
+            "ja": "内船",
+            "en": "Inner boat"
+          }
+        },
+        {
+          "id": 1140216,
+          "name": {
+            "ja": "甲斐大島",
+            "en": "Kai Oshima"
+          }
+        },
+        {
+          "id": 1140217,
+          "name": {
+            "ja": "身延",
+            "en": "Minobu"
+          }
+        },
+        {
+          "id": 1140218,
+          "name": {
+            "ja": "塩之沢",
+            "en": "Shioenosawa"
+          }
+        },
+        {
+          "id": 1140219,
+          "name": {
+            "ja": "波高島",
+            "en": "Kohkajima"
+          }
+        },
+        {
+          "id": 1140220,
+          "name": {
+            "ja": "下部温泉",
+            "en": "Lower hot springs"
+          }
+        },
+        {
+          "id": 1140221,
+          "name": {
+            "ja": "甲斐常葉",
+            "en": "Kai Chika"
+          }
+        },
+        {
+          "id": 1140222,
+          "name": {
+            "ja": "市ノ瀬",
+            "en": "Ichinose"
+          }
+        },
+        {
+          "id": 1140223,
+          "name": {
+            "ja": "久那土",
+            "en": "Hisa soil"
+          }
+        },
+        {
+          "id": 1140224,
+          "name": {
+            "ja": "甲斐岩間",
+            "en": "Kaidori"
+          }
+        },
+        {
+          "id": 1140225,
+          "name": {
+            "ja": "落居",
+            "en": "Falling asleep"
+          }
+        },
+        {
+          "id": 1140226,
+          "name": {
+            "ja": "鰍沢口",
+            "en": "Yugawaguchiguchi"
+          }
+        },
+        {
+          "id": 1140227,
+          "name": {
+            "ja": "市川大門",
+            "en": "Ichikawa Daimon"
+          }
+        },
+        {
+          "id": 1140228,
+          "name": {
+            "ja": "市川本町",
+            "en": "Ichikawa-machi"
+          }
+        },
+        {
+          "id": 1140229,
+          "name": {
+            "ja": "芦川",
+            "en": "Ashikawa"
+          }
+        },
+        {
+          "id": 1140230,
+          "name": {
+            "ja": "甲斐上野",
+            "en": "Kai Ueno"
+          }
+        },
+        {
+          "id": 1140231,
+          "name": {
+            "ja": "東花輪",
+            "en": "Eastern wheel"
+          }
+        },
+        {
+          "id": 1140232,
+          "name": {
+            "ja": "小井川",
+            "en": "Oi river"
+          }
+        },
+        {
+          "id": 1140233,
+          "name": {
+            "ja": "常永",
+            "en": "Tsunaga"
+          }
+        },
+        {
+          "id": 1140234,
+          "name": {
+            "ja": "国母",
+            "en": "National mother"
+          }
+        },
+        {
+          "id": 1140235,
+          "name": {
+            "ja": "甲斐住吉",
+            "en": "Kai Sumiyoshi"
+          }
+        },
+        {
+          "id": 1140236,
+          "name": {
+            "ja": "南甲府",
+            "en": "Minami Kofu"
+          }
+        },
+        {
+          "id": 1140237,
+          "name": {
+            "ja": "善光寺",
+            "en": "Zenkoji"
+          }
+        },
+        {
+          "id": 1140238,
+          "name": {
+            "ja": "金手",
+            "en": "Gold hands"
+          }
+        },
+        {
+          "id": 1140239,
+          "name": {
+            "ja": "甲府",
+            "en": "Kofu"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99401,
+      "name": {
+        "ja": "富士急行線",
+        "en": "Fuji Express Line"
+      },
+      "stations": [
+        {
+          "id": 9940101,
+          "name": {
+            "ja": "大月",
+            "en": "Otsuki"
+          }
+        },
+        {
+          "id": 9940102,
+          "name": {
+            "ja": "上大月",
+            "en": "Kamishigun"
+          }
+        },
+        {
+          "id": 9940103,
+          "name": {
+            "ja": "田野倉",
+            "en": "Tanokura"
+          }
+        },
+        {
+          "id": 9940104,
+          "name": {
+            "ja": "禾生",
+            "en": "Fellowship"
+          }
+        },
+        {
+          "id": 9940105,
+          "name": {
+            "ja": "赤坂",
+            "en": "Akasaka"
+          }
+        },
+        {
+          "id": 9940106,
+          "name": {
+            "ja": "都留市",
+            "en": "Tsuru-shi"
+          }
+        },
+        {
+          "id": 9940107,
+          "name": {
+            "ja": "谷村町",
+            "en": "Tanimacho"
+          }
+        },
+        {
+          "id": 9940108,
+          "name": {
+            "ja": "都留文科大学前",
+            "en": "Before Toryi University of Science"
+          }
+        },
+        {
+          "id": 9940109,
+          "name": {
+            "ja": "十日市場",
+            "en": "Tokachi Market"
+          }
+        },
+        {
+          "id": 9940110,
+          "name": {
+            "ja": "東桂",
+            "en": "Tozai"
+          }
+        },
+        {
+          "id": 9940111,
+          "name": {
+            "ja": "三つ峠",
+            "en": "Three-pass"
+          }
+        },
+        {
+          "id": 9940112,
+          "name": {
+            "ja": "寿",
+            "en": "Long life"
+          }
+        },
+        {
+          "id": 9940113,
+          "name": {
+            "ja": "葭池温泉前",
+            "en": "In front of Ikei Onsen"
+          }
+        },
+        {
+          "id": 9940114,
+          "name": {
+            "ja": "下吉田",
+            "en": "Shimoshida"
+          }
+        },
+        {
+          "id": 9940115,
+          "name": {
+            "ja": "月江寺",
+            "en": "Tsukiji"
+          }
+        },
+        {
+          "id": 9940116,
+          "name": {
+            "ja": "富士山",
+            "en": "Fuji Mountain"
+          }
+        },
+        {
+          "id": 9940117,
+          "name": {
+            "ja": "富士急ハイランド",
+            "en": "Fuji-Q Highland"
+          }
+        },
+        {
+          "id": 9940118,
+          "name": {
+            "ja": "河口湖",
+            "en": "Kawaguchiko"
+          }
+        }
+      ]
+    }
+  ]
+}

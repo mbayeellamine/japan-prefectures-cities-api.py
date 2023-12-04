@@ -6,7 +6,6 @@ import random
 
 router = APIRouter()
 
-
 @router.get('/japan')
 def get_japan():
     return japan

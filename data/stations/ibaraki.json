@@ -1,0 +1,1846 @@
+{
+  "id": 8,
+  "name": {
+    "ja": "茨城県",
+    "en": "Ibaraki Prefecture"
+  },
+  "lines": [
+    {
+      "id": 11229,
+      "name": {
+        "ja": "JR常磐線(取手～いわき)",
+        "en": "JR Joban Line (Toride ~ Iwaki)"
+      },
+      "stations": [
+        {
+          "id": 1122901,
+          "name": {
+            "ja": "取手",
+            "en": "Handle"
+          }
+        },
+        {
+          "id": 1122902,
+          "name": {
+            "ja": "藤代",
+            "en": "Fujyoro"
+          }
+        },
+        {
+          "id": 1122903,
+          "name": {
+            "ja": "佐貫",
+            "en": "Satoshi"
+          }
+        },
+        {
+          "id": 1122904,
+          "name": {
+            "ja": "牛久",
+            "en": "Ushiku"
+          }
+        },
+        {
+          "id": 1122905,
+          "name": {
+            "ja": "ひたち野うしく",
+            "en": "Hitachino Uki"
+          }
+        },
+        {
+          "id": 1122906,
+          "name": {
+            "ja": "荒川沖",
+            "en": "Arakawa-ku"
+          }
+        },
+        {
+          "id": 1122907,
+          "name": {
+            "ja": "土浦",
+            "en": "Tsuchiura"
+          }
+        },
+        {
+          "id": 1122908,
+          "name": {
+            "ja": "神立",
+            "en": "Deity"
+          }
+        },
+        {
+          "id": 1122909,
+          "name": {
+            "ja": "高浜",
+            "en": "Takahama"
+          }
+        },
+        {
+          "id": 1122910,
+          "name": {
+            "ja": "石岡",
+            "en": "Ishioka"
+          }
+        },
+        {
+          "id": 1122911,
+          "name": {
+            "ja": "羽鳥",
+            "en": "Hatori"
+          }
+        },
+        {
+          "id": 1122912,
+          "name": {
+            "ja": "岩間",
+            "en": "Iwama"
+          }
+        },
+        {
+          "id": 1122913,
+          "name": {
+            "ja": "友部",
+            "en": "A friend"
+          }
+        },
+        {
+          "id": 1122914,
+          "name": {
+            "ja": "内原",
+            "en": "Uchihara"
+          }
+        },
+        {
+          "id": 1122915,
+          "name": {
+            "ja": "赤塚",
+            "en": "Akatsuka"
+          }
+        },
+        {
+          "id": 1122916,
+          "name": {
+            "ja": "偕楽園",
+            "en": "Kairakuen"
+          }
+        },
+        {
+          "id": 1122917,
+          "name": {
+            "ja": "水戸",
+            "en": "Mito"
+          }
+        },
+        {
+          "id": 1122918,
+          "name": {
+            "ja": "勝田",
+            "en": "Katsuta"
+          }
+        },
+        {
+          "id": 1122919,
+          "name": {
+            "ja": "佐和",
+            "en": "Sawa"
+          }
+        },
+        {
+          "id": 1122920,
+          "name": {
+            "ja": "東海",
+            "en": "Tokai"
+          }
+        },
+        {
+          "id": 1122921,
+          "name": {
+            "ja": "大甕",
+            "en": "Big pot"
+          }
+        },
+        {
+          "id": 1122922,
+          "name": {
+            "ja": "常陸多賀",
+            "en": "Higashi Taka"
+          }
+        },
+        {
+          "id": 1122923,
+          "name": {
+            "ja": "日立",
+            "en": "Hitachi"
+          }
+        },
+        {
+          "id": 1122924,
+          "name": {
+            "ja": "小木津",
+            "en": "Ogitsu"
+          }
+        },
+        {
+          "id": 1122925,
+          "name": {
+            "ja": "十王",
+            "en": "The king"
+          }
+        },
+        {
+          "id": 1122926,
+          "name": {
+            "ja": "高萩",
+            "en": "Takahagi"
+          }
+        },
+        {
+          "id": 1122927,
+          "name": {
+            "ja": "南中郷",
+            "en": "South Korea"
+          }
+        },
+        {
+          "id": 1122928,
+          "name": {
+            "ja": "磯原",
+            "en": "Isobara"
+          }
+        },
+        {
+          "id": 1122929,
+          "name": {
+            "ja": "大津港",
+            "en": "Otsuko"
+          }
+        },
+        {
+          "id": 1122930,
+          "name": {
+            "ja": "勿来",
+            "en": "Natural progression"
+          }
+        },
+        {
+          "id": 1122931,
+          "name": {
+            "ja": "植田",
+            "en": "Ueda"
+          }
+        },
+        {
+          "id": 1122932,
+          "name": {
+            "ja": "泉",
+            "en": "Fountain"
+          }
+        },
+        {
+          "id": 1122933,
+          "name": {
+            "ja": "湯本",
+            "en": "Yumoto"
+          }
+        },
+        {
+          "id": 1122934,
+          "name": {
+            "ja": "内郷",
+            "en": "Naigo"
+          }
+        },
+        {
+          "id": 1122935,
+          "name": {
+            "ja": "いわき",
+            "en": "IWAKI"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11319,
+      "name": {
+        "ja": "宇都宮線",
+        "en": "Utsunomiya Line"
+      },
+      "stations": [
+        {
+          "id": 1131901,
+          "name": {
+            "ja": "上野",
+            "en": "Ueno"
+          }
+        },
+        {
+          "id": 1131902,
+          "name": {
+            "ja": "尾久",
+            "en": "Takeshi"
+          }
+        },
+        {
+          "id": 1131903,
+          "name": {
+            "ja": "赤羽",
+            "en": "Akabane"
+          }
+        },
+        {
+          "id": 1131904,
+          "name": {
+            "ja": "浦和",
+            "en": "Urawa"
+          }
+        },
+        {
+          "id": 1131905,
+          "name": {
+            "ja": "さいたま新都心",
+            "en": "Saitama Shintoshin down center"
+          }
+        },
+        {
+          "id": 1131906,
+          "name": {
+            "ja": "大宮",
+            "en": "Omiya"
+          }
+        },
+        {
+          "id": 1131907,
+          "name": {
+            "ja": "土呂",
+            "en": "Touro"
+          }
+        },
+        {
+          "id": 1131908,
+          "name": {
+            "ja": "東大宮",
+            "en": "Higashi Omiya"
+          }
+        },
+        {
+          "id": 1131909,
+          "name": {
+            "ja": "蓮田",
+            "en": "Hida"
+          }
+        },
+        {
+          "id": 1131910,
+          "name": {
+            "ja": "白岡",
+            "en": "Shiraoka"
+          }
+        },
+        {
+          "id": 1131911,
+          "name": {
+            "ja": "新白岡",
+            "en": "Shinbaoka"
+          }
+        },
+        {
+          "id": 1131912,
+          "name": {
+            "ja": "久喜",
+            "en": "Kuki"
+          }
+        },
+        {
+          "id": 1131913,
+          "name": {
+            "ja": "東鷲宮",
+            "en": "Eastern Washi Palace"
+          }
+        },
+        {
+          "id": 1131914,
+          "name": {
+            "ja": "栗橋",
+            "en": "Kurihashi"
+          }
+        },
+        {
+          "id": 1131915,
+          "name": {
+            "ja": "古河",
+            "en": "Furukawa"
+          }
+        },
+        {
+          "id": 1131916,
+          "name": {
+            "ja": "野木",
+            "en": "A tree"
+          }
+        },
+        {
+          "id": 1131917,
+          "name": {
+            "ja": "間々田",
+            "en": "Zushida"
+          }
+        },
+        {
+          "id": 1131918,
+          "name": {
+            "ja": "小山",
+            "en": "Oyama"
+          }
+        },
+        {
+          "id": 1131919,
+          "name": {
+            "ja": "小金井",
+            "en": "Koganei"
+          }
+        },
+        {
+          "id": 1131920,
+          "name": {
+            "ja": "自治医大",
+            "en": "Self-governing doctor"
+          }
+        },
+        {
+          "id": 1131921,
+          "name": {
+            "ja": "石橋",
+            "en": "Ishibashi"
+          }
+        },
+        {
+          "id": 1131922,
+          "name": {
+            "ja": "雀宮",
+            "en": "A shogunyu"
+          }
+        },
+        {
+          "id": 1131923,
+          "name": {
+            "ja": "宇都宮",
+            "en": "Utsunomiya"
+          }
+        },
+        {
+          "id": 1131924,
+          "name": {
+            "ja": "岡本",
+            "en": "Okamoto"
+          }
+        },
+        {
+          "id": 1131925,
+          "name": {
+            "ja": "宝積寺",
+            "en": "Takamaruji"
+          }
+        },
+        {
+          "id": 1131926,
+          "name": {
+            "ja": "氏家",
+            "en": "A family house"
+          }
+        },
+        {
+          "id": 1131927,
+          "name": {
+            "ja": "蒲須坂",
+            "en": "Kamisaka"
+          }
+        },
+        {
+          "id": 1131928,
+          "name": {
+            "ja": "片岡",
+            "en": "Kataoka"
+          }
+        },
+        {
+          "id": 1131929,
+          "name": {
+            "ja": "矢板",
+            "en": "Pile sheet"
+          }
+        },
+        {
+          "id": 1131930,
+          "name": {
+            "ja": "野崎",
+            "en": "Nozaki"
+          }
+        },
+        {
+          "id": 1131931,
+          "name": {
+            "ja": "西那須野",
+            "en": "Nishinasuno"
+          }
+        },
+        {
+          "id": 1131932,
+          "name": {
+            "ja": "那須塩原",
+            "en": "Nasushiobara"
+          }
+        },
+        {
+          "id": 1131933,
+          "name": {
+            "ja": "黒磯",
+            "en": "Kuroiso"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11320,
+      "name": {
+        "ja": "JR常磐線(上野～取手)",
+        "en": "JR Joban Line (Ueno - Toride)"
+      },
+      "stations": [
+        {
+          "id": 1132001,
+          "name": {
+            "ja": "上野",
+            "en": "Ueno"
+          }
+        },
+        {
+          "id": 1132002,
+          "name": {
+            "ja": "日暮里",
+            "en": "Nippori"
+          }
+        },
+        {
+          "id": 1132003,
+          "name": {
+            "ja": "三河島",
+            "en": "Mikawa Island"
+          }
+        },
+        {
+          "id": 1132004,
+          "name": {
+            "ja": "南千住",
+            "en": "Minami-senju"
+          }
+        },
+        {
+          "id": 1132005,
+          "name": {
+            "ja": "北千住",
+            "en": "Kita Senju"
+          }
+        },
+        {
+          "id": 1132006,
+          "name": {
+            "ja": "綾瀬",
+            "en": "Ayase"
+          }
+        },
+        {
+          "id": 1132007,
+          "name": {
+            "ja": "亀有",
+            "en": "Kameari"
+          }
+        },
+        {
+          "id": 1132008,
+          "name": {
+            "ja": "金町",
+            "en": "Kanamachi"
+          }
+        },
+        {
+          "id": 1132009,
+          "name": {
+            "ja": "松戸",
+            "en": "Matsudo"
+          }
+        },
+        {
+          "id": 1132010,
+          "name": {
+            "ja": "北松戸",
+            "en": "Kita Matsudo"
+          }
+        },
+        {
+          "id": 1132011,
+          "name": {
+            "ja": "馬橋",
+            "en": "Moribashi"
+          }
+        },
+        {
+          "id": 1132012,
+          "name": {
+            "ja": "新松戸",
+            "en": "Shin-Matsudo"
+          }
+        },
+        {
+          "id": 1132013,
+          "name": {
+            "ja": "北小金",
+            "en": "Kita Kogane"
+          }
+        },
+        {
+          "id": 1132014,
+          "name": {
+            "ja": "南柏",
+            "en": "South Kishi"
+          }
+        },
+        {
+          "id": 1132015,
+          "name": {
+            "ja": "柏",
+            "en": "oak"
+          }
+        },
+        {
+          "id": 1132016,
+          "name": {
+            "ja": "北柏",
+            "en": "Kitakami"
+          }
+        },
+        {
+          "id": 1132017,
+          "name": {
+            "ja": "我孫子",
+            "en": "Abiko"
+          }
+        },
+        {
+          "id": 1132018,
+          "name": {
+            "ja": "天王台",
+            "en": "Tenodai"
+          }
+        },
+        {
+          "id": 1132019,
+          "name": {
+            "ja": "取手",
+            "en": "Handle"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11329,
+      "name": {
+        "ja": "JR鹿島線",
+        "en": "JR Kashima Line"
+      },
+      "stations": [
+        {
+          "id": 1132901,
+          "name": {
+            "ja": "佐原",
+            "en": "Sawara"
+          }
+        },
+        {
+          "id": 1132902,
+          "name": {
+            "ja": "香取",
+            "en": "Katori"
+          }
+        },
+        {
+          "id": 1132903,
+          "name": {
+            "ja": "十二橋",
+            "en": "Twelve bridges"
+          }
+        },
+        {
+          "id": 1132904,
+          "name": {
+            "ja": "潮来",
+            "en": "Itinerary"
+          }
+        },
+        {
+          "id": 1132905,
+          "name": {
+            "ja": "延方",
+            "en": "Elongation"
+          }
+        },
+        {
+          "id": 1132906,
+          "name": {
+            "ja": "鹿島神宮",
+            "en": "Kashima Shrine"
+          }
+        },
+        {
+          "id": 1132907,
+          "name": {
+            "ja": "鹿島サッカースタジアム（臨）",
+            "en": "Kajima football stadium (clinic)"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11338,
+      "name": {
+        "ja": "JR水郡線",
+        "en": "JR Suijo Line"
+      },
+      "stations": [
+        {
+          "id": 1133801,
+          "name": {
+            "ja": "水戸",
+            "en": "Mito"
+          }
+        },
+        {
+          "id": 1133802,
+          "name": {
+            "ja": "常陸青柳",
+            "en": "Tsutomu Otani"
+          }
+        },
+        {
+          "id": 1133803,
+          "name": {
+            "ja": "常陸津田",
+            "en": "Hitoshi Tsuda"
+          }
+        },
+        {
+          "id": 1133804,
+          "name": {
+            "ja": "後台",
+            "en": "Rear stage"
+          }
+        },
+        {
+          "id": 1133805,
+          "name": {
+            "ja": "下菅谷",
+            "en": "Shimogaya Valley"
+          }
+        },
+        {
+          "id": 1133806,
+          "name": {
+            "ja": "中菅谷",
+            "en": "Nakasugaya"
+          }
+        },
+        {
+          "id": 1133807,
+          "name": {
+            "ja": "上菅谷",
+            "en": "Kamigaya Valley"
+          }
+        },
+        {
+          "id": 1133808,
+          "name": {
+            "ja": "南酒出",
+            "en": "South sauce"
+          }
+        },
+        {
+          "id": 1133809,
+          "name": {
+            "ja": "額田",
+            "en": "Fuda"
+          }
+        },
+        {
+          "id": 1133810,
+          "name": {
+            "ja": "河合",
+            "en": "Kawai"
+          }
+        },
+        {
+          "id": 1133811,
+          "name": {
+            "ja": "谷河原",
+            "en": "Tanigawara"
+          }
+        },
+        {
+          "id": 1133812,
+          "name": {
+            "ja": "常陸太田",
+            "en": "Hitachi Ota"
+          }
+        },
+        {
+          "id": 1133813,
+          "name": {
+            "ja": "常陸鴻巣",
+            "en": "Hitachi Kokuso"
+          }
+        },
+        {
+          "id": 1133814,
+          "name": {
+            "ja": "瓜連",
+            "en": "Yukari"
+          }
+        },
+        {
+          "id": 1133815,
+          "name": {
+            "ja": "静",
+            "en": "Static"
+          }
+        },
+        {
+          "id": 1133816,
+          "name": {
+            "ja": "常陸大宮",
+            "en": "Hitachi Omiya"
+          }
+        },
+        {
+          "id": 1133817,
+          "name": {
+            "ja": "玉川村",
+            "en": "Tamagawa Village"
+          }
+        },
+        {
+          "id": 1133818,
+          "name": {
+            "ja": "野上原",
+            "en": "Nogamihara"
+          }
+        },
+        {
+          "id": 1133819,
+          "name": {
+            "ja": "山方宿",
+            "en": "Yamato Inn"
+          }
+        },
+        {
+          "id": 1133820,
+          "name": {
+            "ja": "中舟生",
+            "en": "Mr. Nakagawa"
+          }
+        },
+        {
+          "id": 1133821,
+          "name": {
+            "ja": "下小川",
+            "en": "Shimogawa River"
+          }
+        },
+        {
+          "id": 1133822,
+          "name": {
+            "ja": "西金",
+            "en": "West money"
+          }
+        },
+        {
+          "id": 1133823,
+          "name": {
+            "ja": "上小川",
+            "en": "Kamikawa River"
+          }
+        },
+        {
+          "id": 1133824,
+          "name": {
+            "ja": "袋田",
+            "en": "Fukuroda"
+          }
+        },
+        {
+          "id": 1133825,
+          "name": {
+            "ja": "常陸大子",
+            "en": "Hitachi Izuko"
+          }
+        },
+        {
+          "id": 1133826,
+          "name": {
+            "ja": "下野宮",
+            "en": "Shimodenshi"
+          }
+        },
+        {
+          "id": 1133827,
+          "name": {
+            "ja": "矢祭山",
+            "en": "Yasushiyama"
+          }
+        },
+        {
+          "id": 1133828,
+          "name": {
+            "ja": "東館",
+            "en": "East building"
+          }
+        },
+        {
+          "id": 1133829,
+          "name": {
+            "ja": "南石井",
+            "en": "Minami Ishii"
+          }
+        },
+        {
+          "id": 1133830,
+          "name": {
+            "ja": "磐城石井",
+            "en": "Irumaki Ishii"
+          }
+        },
+        {
+          "id": 1133831,
+          "name": {
+            "ja": "磐城塙",
+            "en": "Irumashiro"
+          }
+        },
+        {
+          "id": 1133832,
+          "name": {
+            "ja": "近津",
+            "en": "Kotatsu"
+          }
+        },
+        {
+          "id": 1133833,
+          "name": {
+            "ja": "中豊",
+            "en": "Nakayoshi"
+          }
+        },
+        {
+          "id": 1133834,
+          "name": {
+            "ja": "磐城棚倉",
+            "en": "Iwaki Tanakura"
+          }
+        },
+        {
+          "id": 1133835,
+          "name": {
+            "ja": "磐城浅川",
+            "en": "Iwaki Asakawa"
+          }
+        },
+        {
+          "id": 1133836,
+          "name": {
+            "ja": "里白石",
+            "en": "Furaishi"
+          }
+        },
+        {
+          "id": 1133837,
+          "name": {
+            "ja": "磐城石川",
+            "en": "Iwakiishi River"
+          }
+        },
+        {
+          "id": 1133838,
+          "name": {
+            "ja": "野木沢",
+            "en": "Nogisawa"
+          }
+        },
+        {
+          "id": 1133839,
+          "name": {
+            "ja": "川辺沖",
+            "en": "Off the river"
+          }
+        },
+        {
+          "id": 1133840,
+          "name": {
+            "ja": "泉郷",
+            "en": "Izumi Town"
+          }
+        },
+        {
+          "id": 1133841,
+          "name": {
+            "ja": "川東",
+            "en": "Kawasaki"
+          }
+        },
+        {
+          "id": 1133842,
+          "name": {
+            "ja": "小塩江",
+            "en": "Small salt river"
+          }
+        },
+        {
+          "id": 1133843,
+          "name": {
+            "ja": "谷田川",
+            "en": "Yatagawa"
+          }
+        },
+        {
+          "id": 1133844,
+          "name": {
+            "ja": "磐城守山",
+            "en": "Iwaki Moriyama"
+          }
+        },
+        {
+          "id": 1133845,
+          "name": {
+            "ja": "安積永盛",
+            "en": "Yasunori Sagaki"
+          }
+        },
+        {
+          "id": 1133846,
+          "name": {
+            "ja": "郡山",
+            "en": "Koriyama"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11339,
+      "name": {
+        "ja": "JR水戸線",
+        "en": "JR Mito Line"
+      },
+      "stations": [
+        {
+          "id": 1133901,
+          "name": {
+            "ja": "小山",
+            "en": "Oyama"
+          }
+        },
+        {
+          "id": 1133902,
+          "name": {
+            "ja": "小田林",
+            "en": "Odabayashi"
+          }
+        },
+        {
+          "id": 1133903,
+          "name": {
+            "ja": "結城",
+            "en": "Yuki"
+          }
+        },
+        {
+          "id": 1133904,
+          "name": {
+            "ja": "東結城",
+            "en": "Tozyou Castle"
+          }
+        },
+        {
+          "id": 1133905,
+          "name": {
+            "ja": "川島",
+            "en": "Kawashima"
+          }
+        },
+        {
+          "id": 1133906,
+          "name": {
+            "ja": "玉戸",
+            "en": "Tamado"
+          }
+        },
+        {
+          "id": 1133907,
+          "name": {
+            "ja": "下館",
+            "en": "Shimodate"
+          }
+        },
+        {
+          "id": 1133908,
+          "name": {
+            "ja": "新治",
+            "en": "New term"
+          }
+        },
+        {
+          "id": 1133909,
+          "name": {
+            "ja": "大和",
+            "en": "Yamato"
+          }
+        },
+        {
+          "id": 1133910,
+          "name": {
+            "ja": "岩瀬",
+            "en": "Iwase"
+          }
+        },
+        {
+          "id": 1133911,
+          "name": {
+            "ja": "羽黒",
+            "en": "Hagari"
+          }
+        },
+        {
+          "id": 1133912,
+          "name": {
+            "ja": "福原",
+            "en": "Fukuhara"
+          }
+        },
+        {
+          "id": 1133913,
+          "name": {
+            "ja": "稲田",
+            "en": "Inada"
+          }
+        },
+        {
+          "id": 1133914,
+          "name": {
+            "ja": "笠間",
+            "en": "Kasama"
+          }
+        },
+        {
+          "id": 1133915,
+          "name": {
+            "ja": "宍戸",
+            "en": "Shishido"
+          }
+        },
+        {
+          "id": 1133916,
+          "name": {
+            "ja": "友部",
+            "en": "A friend"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99309,
+      "name": {
+        "ja": "つくばエクスプレス",
+        "en": "Tsukuba Express"
+      },
+      "stations": [
+        {
+          "id": 9930901,
+          "name": {
+            "ja": "秋葉原",
+            "en": "Akihabara"
+          }
+        },
+        {
+          "id": 9930902,
+          "name": {
+            "ja": "新御徒町",
+            "en": "Shinokabacho"
+          }
+        },
+        {
+          "id": 9930903,
+          "name": {
+            "ja": "浅草",
+            "en": "Asakusa"
+          }
+        },
+        {
+          "id": 9930904,
+          "name": {
+            "ja": "南千住",
+            "en": "Minami-senju"
+          }
+        },
+        {
+          "id": 9930905,
+          "name": {
+            "ja": "北千住",
+            "en": "Kita Senju"
+          }
+        },
+        {
+          "id": 9930906,
+          "name": {
+            "ja": "青井",
+            "en": "Aoi"
+          }
+        },
+        {
+          "id": 9930907,
+          "name": {
+            "ja": "六町",
+            "en": "Rokucho"
+          }
+        },
+        {
+          "id": 9930908,
+          "name": {
+            "ja": "八潮",
+            "en": "Yashio"
+          }
+        },
+        {
+          "id": 9930909,
+          "name": {
+            "ja": "三郷中央",
+            "en": "Misato center"
+          }
+        },
+        {
+          "id": 9930910,
+          "name": {
+            "ja": "南流山",
+            "en": "Nankozan"
+          }
+        },
+        {
+          "id": 9930911,
+          "name": {
+            "ja": "流山セントラルパーク",
+            "en": "Nayama Central Park"
+          }
+        },
+        {
+          "id": 9930912,
+          "name": {
+            "ja": "流山おおたかの森",
+            "en": "Mt. Nagareyama Ontaka Forest"
+          }
+        },
+        {
+          "id": 9930913,
+          "name": {
+            "ja": "柏の葉キャンパス",
+            "en": "Kashiwanoha Campus"
+          }
+        },
+        {
+          "id": 9930914,
+          "name": {
+            "ja": "柏たなか",
+            "en": "Kashiwa Tanaka"
+          }
+        },
+        {
+          "id": 9930915,
+          "name": {
+            "ja": "守谷",
+            "en": "Moriya"
+          }
+        },
+        {
+          "id": 9930916,
+          "name": {
+            "ja": "みらい平",
+            "en": "Mirai Plain"
+          }
+        },
+        {
+          "id": 9930917,
+          "name": {
+            "ja": "みどりの",
+            "en": "Green"
+          }
+        },
+        {
+          "id": 9930918,
+          "name": {
+            "ja": "万博記念公園",
+            "en": "Expo Memorial Park"
+          }
+        },
+        {
+          "id": 9930919,
+          "name": {
+            "ja": "研究学園",
+            "en": "Research school"
+          }
+        },
+        {
+          "id": 9930920,
+          "name": {
+            "ja": "つくば",
+            "en": "Tsukuba"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99315,
+      "name": {
+        "ja": "ひたちなか海浜鉄道湊線",
+        "en": "Hitachinaka Seaside Railway Minato Line"
+      },
+      "stations": [
+        {
+          "id": 9931501,
+          "name": {
+            "ja": "阿字ヶ浦",
+            "en": "Ajigaura"
+          }
+        },
+        {
+          "id": 9931502,
+          "name": {
+            "ja": "磯崎",
+            "en": "Isozaki"
+          }
+        },
+        {
+          "id": 9931503,
+          "name": {
+            "ja": "平磯",
+            "en": "Hiraiso"
+          }
+        },
+        {
+          "id": 9931504,
+          "name": {
+            "ja": "殿山",
+            "en": "Honsenyama"
+          }
+        },
+        {
+          "id": 9931505,
+          "name": {
+            "ja": "那珂湊",
+            "en": "Nakano Minato"
+          }
+        },
+        {
+          "id": 9931510,
+          "name": {
+            "ja": "高田の鉄橋",
+            "en": "Takada's iron bridge"
+          }
+        },
+        {
+          "id": 9931506,
+          "name": {
+            "ja": "中根",
+            "en": "Nakane"
+          }
+        },
+        {
+          "id": 9931507,
+          "name": {
+            "ja": "金上",
+            "en": "Kaname"
+          }
+        },
+        {
+          "id": 9931508,
+          "name": {
+            "ja": "日工前",
+            "en": "Nikkojima"
+          }
+        },
+        {
+          "id": 9931509,
+          "name": {
+            "ja": "勝田",
+            "en": "Katsuta"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99318,
+      "name": {
+        "ja": "関東鉄道常総線",
+        "en": "Kanto Railway Jozan Line"
+      },
+      "stations": [
+        {
+          "id": 9931801,
+          "name": {
+            "ja": "取手",
+            "en": "Handle"
+          }
+        },
+        {
+          "id": 9931802,
+          "name": {
+            "ja": "西取手",
+            "en": "West handle"
+          }
+        },
+        {
+          "id": 9931803,
+          "name": {
+            "ja": "寺原",
+            "en": "Terahara"
+          }
+        },
+        {
+          "id": 9931804,
+          "name": {
+            "ja": "新取手",
+            "en": "New beginning"
+          }
+        },
+        {
+          "id": 9931825,
+          "name": {
+            "ja": "ゆめみ野",
+            "en": "Yumeno"
+          }
+        },
+        {
+          "id": 9931805,
+          "name": {
+            "ja": "稲戸井",
+            "en": "Inagoi"
+          }
+        },
+        {
+          "id": 9931806,
+          "name": {
+            "ja": "戸頭",
+            "en": "Doorway"
+          }
+        },
+        {
+          "id": 9931807,
+          "name": {
+            "ja": "南守谷",
+            "en": "Minami-guya"
+          }
+        },
+        {
+          "id": 9931808,
+          "name": {
+            "ja": "守谷",
+            "en": "Moriya"
+          }
+        },
+        {
+          "id": 9931809,
+          "name": {
+            "ja": "新守谷",
+            "en": "Shinobuya"
+          }
+        },
+        {
+          "id": 9931810,
+          "name": {
+            "ja": "小絹",
+            "en": "Small silk"
+          }
+        },
+        {
+          "id": 9931811,
+          "name": {
+            "ja": "水海道",
+            "en": "Mizukaido"
+          }
+        },
+        {
+          "id": 9931812,
+          "name": {
+            "ja": "北水海道",
+            "en": "Kita Maido"
+          }
+        },
+        {
+          "id": 9931813,
+          "name": {
+            "ja": "中妻",
+            "en": "Wife"
+          }
+        },
+        {
+          "id": 9931814,
+          "name": {
+            "ja": "三妻",
+            "en": "Three wives"
+          }
+        },
+        {
+          "id": 9931815,
+          "name": {
+            "ja": "南石下",
+            "en": "Minami Stone"
+          }
+        },
+        {
+          "id": 9931816,
+          "name": {
+            "ja": "石下",
+            "en": "Stone"
+          }
+        },
+        {
+          "id": 9931817,
+          "name": {
+            "ja": "玉村",
+            "en": "Tamamura"
+          }
+        },
+        {
+          "id": 9931818,
+          "name": {
+            "ja": "宗道",
+            "en": "Maido"
+          }
+        },
+        {
+          "id": 9931819,
+          "name": {
+            "ja": "下妻",
+            "en": "Shimotsuma"
+          }
+        },
+        {
+          "id": 9931820,
+          "name": {
+            "ja": "大宝",
+            "en": "Treasure"
+          }
+        },
+        {
+          "id": 9931821,
+          "name": {
+            "ja": "騰波ノ江",
+            "en": "Tengno River"
+          }
+        },
+        {
+          "id": 9931822,
+          "name": {
+            "ja": "黒子",
+            "en": "Kuroko"
+          }
+        },
+        {
+          "id": 9931823,
+          "name": {
+            "ja": "大田郷",
+            "en": "Ota Township"
+          }
+        },
+        {
+          "id": 9931824,
+          "name": {
+            "ja": "下館",
+            "en": "Shimodate"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99319,
+      "name": {
+        "ja": "関東鉄道竜ヶ崎線",
+        "en": "Kanto Railway Ryugasaki Line"
+      },
+      "stations": [
+        {
+          "id": 9931901,
+          "name": {
+            "ja": "佐貫",
+            "en": "Satoshi"
+          }
+        },
+        {
+          "id": 9931902,
+          "name": {
+            "ja": "入地",
+            "en": "Entrance"
+          }
+        },
+        {
+          "id": 9931903,
+          "name": {
+            "ja": "竜ヶ崎",
+            "en": "Ryugasaki"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99323,
+      "name": {
+        "ja": "鹿島臨海鉄道大洗鹿島線",
+        "en": "Kashima Coastal Railroad Otorakekashima Line"
+      },
+      "stations": [
+        {
+          "id": 9932301,
+          "name": {
+            "ja": "水戸",
+            "en": "Mito"
+          }
+        },
+        {
+          "id": 9932302,
+          "name": {
+            "ja": "東水戸",
+            "en": "Higashi Mito"
+          }
+        },
+        {
+          "id": 9932303,
+          "name": {
+            "ja": "常澄",
+            "en": "Normals"
+          }
+        },
+        {
+          "id": 9932304,
+          "name": {
+            "ja": "大洗",
+            "en": "Oarai"
+          }
+        },
+        {
+          "id": 9932305,
+          "name": {
+            "ja": "涸沼",
+            "en": "Hakuuma"
+          }
+        },
+        {
+          "id": 9932306,
+          "name": {
+            "ja": "鹿島旭",
+            "en": "Kashima Asahi"
+          }
+        },
+        {
+          "id": 9932307,
+          "name": {
+            "ja": "徳宿",
+            "en": "Tokudaku"
+          }
+        },
+        {
+          "id": 9932308,
+          "name": {
+            "ja": "新鉾田",
+            "en": "Shinshida"
+          }
+        },
+        {
+          "id": 9932309,
+          "name": {
+            "ja": "北浦湖畔",
+            "en": "Lake Kitaura"
+          }
+        },
+        {
+          "id": 9932310,
+          "name": {
+            "ja": "大洋",
+            "en": "Ocean"
+          }
+        },
+        {
+          "id": 9932311,
+          "name": {
+            "ja": "鹿島灘",
+            "en": "Kashima-nada"
+          }
+        },
+        {
+          "id": 9932312,
+          "name": {
+            "ja": "鹿島大野",
+            "en": "Kashima Ono"
+          }
+        },
+        {
+          "id": 9932313,
+          "name": {
+            "ja": "長者ヶ浜潮騒はまなす公園前",
+            "en": "Nagahama-gama Beach Ocean Front Hamanasu Park"
+          }
+        },
+        {
+          "id": 9932314,
+          "name": {
+            "ja": "荒野台",
+            "en": "Wilderness bed"
+          }
+        },
+        {
+          "id": 9932315,
+          "name": {
+            "ja": "鹿島サッカースタジアム（臨）",
+            "en": "Kajima football stadium (clinic)"
+          }
+        },
+        {
+          "id": 9932316,
+          "name": {
+            "ja": "鹿島神宮",
+            "en": "Kashima Shrine"
+          }
+        }
+      ]
+    },
+    {
+      "id": 99330,
+      "name": {
+        "ja": "真岡鐵道真岡線",
+        "en": "Moka Tetsudo Moka Line"
+      },
+      "stations": [
+        {
+          "id": 9933001,
+          "name": {
+            "ja": "下館",
+            "en": "Shimodate"
+          }
+        },
+        {
+          "id": 9933002,
+          "name": {
+            "ja": "下館二高前",
+            "en": "Shimokodenbaku"
+          }
+        },
+        {
+          "id": 9933003,
+          "name": {
+            "ja": "折本",
+            "en": "Folding book"
+          }
+        },
+        {
+          "id": 9933004,
+          "name": {
+            "ja": "ひぐち",
+            "en": "Higuchi"
+          }
+        },
+        {
+          "id": 9933005,
+          "name": {
+            "ja": "久下田",
+            "en": "Kabuda"
+          }
+        },
+        {
+          "id": 9933006,
+          "name": {
+            "ja": "寺内",
+            "en": "Terauchi"
+          }
+        },
+        {
+          "id": 9933007,
+          "name": {
+            "ja": "真岡",
+            "en": "Moka"
+          }
+        },
+        {
+          "id": 9933008,
+          "name": {
+            "ja": "北真岡",
+            "en": "Kitaooka"
+          }
+        },
+        {
+          "id": 9933009,
+          "name": {
+            "ja": "西田井",
+            "en": "Nishidani"
+          }
+        },
+        {
+          "id": 9933010,
+          "name": {
+            "ja": "北山",
+            "en": "Kitayama"
+          }
+        },
+        {
+          "id": 9933011,
+          "name": {
+            "ja": "益子",
+            "en": "Mashiko"
+          }
+        },
+        {
+          "id": 9933012,
+          "name": {
+            "ja": "七井",
+            "en": "Nanai"
+          }
+        },
+        {
+          "id": 9933013,
+          "name": {
+            "ja": "多田羅",
+            "en": "Tada Ra"
+          }
+        },
+        {
+          "id": 9933014,
+          "name": {
+            "ja": "市塙",
+            "en": "Shi"
+          }
+        },
+        {
+          "id": 9933015,
+          "name": {
+            "ja": "笹原田",
+            "en": "Sasayama"
+          }
+        },
+        {
+          "id": 9933016,
+          "name": {
+            "ja": "天矢場",
+            "en": "Tenchiga"
+          }
+        },
+        {
+          "id": 9933017,
+          "name": {
+            "ja": "茂木",
+            "en": "Motegi"
+          }
+        }
+      ]
+    }
+  ]
+}
